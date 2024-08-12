@@ -1,13 +1,14 @@
 class Solution {
 public:
-    int findclosest(int n){
-        int x=floor(log(n)/log(3));
-        return x;
+int findclosest(int n) {
+    int x = 0;
+    while (pow(3, x + 1) <= n) {
+        x++;
     }
+    return x;
+}
+
     bool checkPowersOfThree(int n) {
-        if(n==6574365){
-            return true;
-        }
         unordered_map<int,bool> m;
         while(n>0){
             int y=findclosest(n);
