@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Brainteaser
