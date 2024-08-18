@@ -14,9 +14,10 @@ public:
             for(int j=i+1;j<=n;j++){
                 cout<<"here j is"<<j<<" "<<endl;
                 float a=float(i)/float(j);
-                string s=to_string(i)+"/"+to_string(j);
+                
 
                 if(m[a]==false){
+                    string s=to_string(i)+"/"+to_string(j);
 
                     
                     ans.push_back(s);
