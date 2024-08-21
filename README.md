@@ -42,6 +42,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
+| [2571-find-the-pivot-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Brainteaser
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
