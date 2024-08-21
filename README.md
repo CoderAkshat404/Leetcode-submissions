@@ -26,6 +26,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 ## Hash Table
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Matrix
 |  |
 | ------- |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2571-find-the-pivot-integer) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
