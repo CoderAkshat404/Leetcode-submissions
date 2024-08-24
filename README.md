@@ -13,6 +13,7 @@
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -115,4 +119,8 @@
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
