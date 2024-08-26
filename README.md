@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
