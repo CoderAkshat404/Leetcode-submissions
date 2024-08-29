@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0001-two-sum) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
