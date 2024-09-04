@@ -29,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
@@ -149,8 +150,13 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
