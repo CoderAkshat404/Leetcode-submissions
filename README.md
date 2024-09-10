@@ -52,6 +52,7 @@
 | [0009-palindrome-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
