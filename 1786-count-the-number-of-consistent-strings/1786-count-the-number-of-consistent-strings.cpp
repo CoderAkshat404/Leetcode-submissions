@@ -11,6 +11,7 @@ public:
             for(int j=0;j<words[i].size();j++){
                 if(m[words[i][j]]==false){
                     flag=false;
+                    break;
                 }
 
             }
