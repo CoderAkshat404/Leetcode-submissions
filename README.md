@@ -18,6 +18,7 @@
 | [0058-length-of-last-word](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
@@ -68,6 +69,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -180,6 +182,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
