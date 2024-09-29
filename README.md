@@ -52,6 +52,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -75,6 +76,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
@@ -159,6 +161,7 @@
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0414-third-maximum-number) |
@@ -191,6 +194,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
