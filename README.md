@@ -53,6 +53,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -174,6 +177,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
@@ -211,6 +215,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
