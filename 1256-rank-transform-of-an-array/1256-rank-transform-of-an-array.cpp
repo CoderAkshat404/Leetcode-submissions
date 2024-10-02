@@ -17,10 +17,9 @@ public:
         for(auto i:m){
             cout<<i.first<<" "<<i.second<<endl;
         }
-        vector<int> ans;
         for(int i=0;i<arr.size();i++){
-            ans.push_back(m[arr[i]]);
+            arr[i]=m[arr[i]];
         }
-        return ans;        
+        return arr;        
     }
 };
