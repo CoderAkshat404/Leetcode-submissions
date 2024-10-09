@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -57,6 +58,7 @@
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0136-single-number) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
