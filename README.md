@@ -82,6 +82,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -141,6 +142,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0728-self-dividing-numbers) |
+| [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
