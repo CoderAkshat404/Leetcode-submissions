@@ -33,6 +33,7 @@
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -338,4 +339,8 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
