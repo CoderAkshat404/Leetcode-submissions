@@ -43,6 +43,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
