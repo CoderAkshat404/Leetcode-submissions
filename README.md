@@ -149,6 +149,7 @@
 | [0007-reverse-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
