@@ -77,6 +77,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -291,6 +292,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 ## Prefix Sum
 |  |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
