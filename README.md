@@ -102,6 +102,7 @@
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
@@ -334,6 +335,7 @@
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
