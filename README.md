@@ -128,6 +128,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2752-sum-multiples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2812-find-the-maximum-achievable-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Brainteaser
 |  |
@@ -233,6 +235,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
