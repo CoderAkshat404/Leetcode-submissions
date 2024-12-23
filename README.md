@@ -105,6 +105,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
@@ -225,6 +226,7 @@
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
