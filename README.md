@@ -76,6 +76,7 @@
 | [0001-two-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
