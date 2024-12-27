@@ -127,6 +127,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
@@ -243,6 +244,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
