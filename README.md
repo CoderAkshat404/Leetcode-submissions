@@ -61,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
@@ -101,6 +102,7 @@
 | [0260-single-number-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -240,6 +242,7 @@
 | [0035-search-insert-position](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -347,6 +350,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2571-find-the-pivot-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2571-find-the-pivot-integer) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
@@ -377,6 +381,7 @@
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
