@@ -1,6 +1,6 @@
 class Solution {
 public:
-     int solve(vector<int>& nums,int index,vector<vector<int>> & dp,int flag){
+     int solve(vector<int>& nums,int index,vector<vector<int>> & dp,bool flag){
         cout<<index<<" "<<flag<<endl;
         if(index>=nums.size()){
             return 0;
