@@ -1,9 +1,11 @@
 class Solution {
 public:
     int findans(int i, int j, vector<vector<int>>& dp, int m, int n, vector<vector<int>>& grid) {
-        // Base cases
-        if (i >= m || j >= n || grid[i][j] == 1) {
-            return 0; // Out of bounds or obstacle
+        if(i>=m || j>=n){
+            return 0;
+        }
+         if(grid[i][j]==1){
+            return 0;
         }
         if (i == m-1 && j == n-1) {
             return 1; // Reached destination
