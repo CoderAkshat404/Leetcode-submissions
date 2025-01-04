@@ -124,6 +124,7 @@
 | [0907-koko-eating-bananas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
@@ -365,6 +366,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 ## Prefix Sum
 |  |
@@ -411,6 +413,7 @@
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
