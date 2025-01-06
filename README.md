@@ -114,6 +114,7 @@
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -422,6 +423,7 @@
 | [0198-house-robber](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
