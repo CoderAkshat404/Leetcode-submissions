@@ -64,6 +64,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Greedy
 |  |
@@ -166,6 +167,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -496,6 +498,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -522,6 +525,7 @@
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -530,4 +534,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
