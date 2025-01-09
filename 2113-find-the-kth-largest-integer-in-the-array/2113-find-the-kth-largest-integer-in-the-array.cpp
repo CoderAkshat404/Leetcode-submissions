@@ -2,7 +2,11 @@ class Solution {
 public:
 static bool cmp(string a,string b){
             if(a.length()==b.length()){
-               return a<b;
+                for(int i=0;i<b.length();i++){
+                    if(a[i]!=b[i]){
+                        return a[i]<b[i];
+                    }
+                }
             }
         
             else{
