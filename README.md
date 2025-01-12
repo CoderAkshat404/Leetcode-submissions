@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -35,6 +36,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -444,6 +446,7 @@
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
