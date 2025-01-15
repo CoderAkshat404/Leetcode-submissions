@@ -4,7 +4,6 @@ public:
         int count1 = 0;
         int ans = 0;
 
-        // Count the number of '1' bits in num2
         for (int i = 0; i < 32; i++) {
             int b = (num2 >> i) & 1;
             if (b == 1) {
