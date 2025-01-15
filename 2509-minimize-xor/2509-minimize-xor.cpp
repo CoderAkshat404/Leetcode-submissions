@@ -40,19 +40,17 @@ public:
 
         } else {
             int c = 0;
-
-            // Set all '1' bits from num1 to ans
             for (int i = 0; i < bits.size(); i++) {
                 if (bits[i] == 1) {
-                    ans += (1 << (31 - i)); // Corrected bit position calculation
+                    ans += (1 << (31 - i)); 
                     c++;
                 }
             }
 
-            // Add additional bits to ans until count1 is reached
+            
             for (int i = bits.size() - 1; i >= 0; i--) {
                 if (bits[i] == 0) {
-                    ans += (1 << (31 - i)); // Corrected bit position calculation
+                    ans += (1 << (31 - i)); 
                     c++;
                     if (c == count1) {
                         break;
