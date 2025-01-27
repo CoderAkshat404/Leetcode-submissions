@@ -185,6 +185,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -242,6 +243,7 @@
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -468,6 +470,7 @@
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
