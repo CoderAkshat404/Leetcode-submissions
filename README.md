@@ -215,6 +215,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3632-button-with-longest-push-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3632-button-with-longest-push-time) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
 |  |
 | ------- |
