@@ -15,6 +15,7 @@
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
@@ -53,6 +54,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -168,6 +170,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -240,6 +243,7 @@
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
@@ -404,6 +408,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -516,6 +521,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
