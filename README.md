@@ -161,6 +161,7 @@
 | [0665-non-decreasing-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -462,6 +463,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
