@@ -126,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -513,6 +514,7 @@
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
