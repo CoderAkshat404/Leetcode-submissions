@@ -119,6 +119,7 @@
 | [0053-maximum-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
@@ -443,6 +444,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -456,6 +458,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
