@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -114,6 +115,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0053-maximum-subarray) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0055-jump-game) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -572,6 +576,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
