@@ -14,14 +14,26 @@ public:
         return dp[i][j]=ans;
     }
     int minCost(int n, vector<int>& cuts) {
-        int m=cuts.size();
         cuts.push_back(n);
         cuts.insert(cuts.begin(),0);
         sort(cuts.begin(),cuts.end());
-        vector<vector<int>> dp(m+1,vector<int>(m+1,-1));
-
-        int ans=findans(1,cuts.size()-2,cuts,dp);
-        return ans;
+        int m=cuts.size();
+        vector<vector<int>> dp(m+2,vector<int>(m+2,0));
+        for(int i=m;i>=1;i--){
+            for(int j=0;j<=m-2;j++){
+                if(i>j){
+                    continue;
+                }
+                int ans=1e9;
+                for(int indx=i;indx<=j;indx++){
+                    ans=min(ans,dp[i][indx-1]+dp[indx+1][j]+cuts[j+1]-cuts[i-1]);
+                }
+                dp[i][j]=ans;
+                
+            }
+        }
+        return dp[1][cuts.size()-2];
+        
         
     }
 };
