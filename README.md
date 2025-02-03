@@ -196,6 +196,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -435,6 +436,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -559,6 +561,7 @@
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
