@@ -202,6 +202,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
