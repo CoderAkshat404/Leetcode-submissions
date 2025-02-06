@@ -193,6 +193,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -278,6 +279,7 @@
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
@@ -533,6 +535,7 @@
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
