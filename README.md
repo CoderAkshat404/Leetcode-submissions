@@ -291,6 +291,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -361,6 +362,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
+| [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -727,4 +730,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
