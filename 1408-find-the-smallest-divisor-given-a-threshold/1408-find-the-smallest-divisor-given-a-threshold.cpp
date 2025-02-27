@@ -1,27 +1,38 @@
 class Solution {
 public:
-    int check(int m, vector<int>& nums, int threshold) {
-        int x = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            x += ceil((double)nums[i] / m);
+    int check(int div,vector<int>& nums, int threshold){
+        int sum=0;
+        for(auto i:nums){
+            sum+=(i+div-1)/div;
         }
-        return x <= threshold;
-    }
+        if(sum<=threshold){
+            return 1;
 
-    int smallestDivisor(vector<int>& nums, int threshold) {
-        int lo = 1; // Start from 1 to avoid division by zero
-        int hi = 1e7;
-        int ans = -1;
+        }
+       
+            return 0;
         
-        while (lo <= hi) {
-            int m = lo + (hi - lo) / 2; // Correct midpoint calculation
-            if (check(m, nums, threshold)) {
-                ans = m;
-                hi = m - 1;
-            } else {
-                lo = m + 1;
+    }
+    int smallestDivisor(vector<int>& nums, int threshold) {
+        int maxi=INT_MIN;
+        for(auto i:nums){
+            maxi=max(i,maxi);
+        }
+        int lo=1;
+        int hi=maxi;
+        int ans=0;
+        while(lo<=hi){
+            int m=lo+(hi-lo)/2;
+            if(check(m,nums,threshold)){
+                ans=m;
+                hi=m-1;
             }
+            else{
+                lo=m+1;
+            }
+
         }
         return ans;
+        
     }
 };
