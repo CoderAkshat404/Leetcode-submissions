@@ -3,50 +3,55 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
+        queue<pair<pair<int,int>,int>> q;
         
-        vector<vector<int>> vis(n, vector<int>(m, 0)); // Correctly initialize vis
-        queue<pair<pair<int, int>, int>> q;
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
+        // Push all initially rotten oranges into the queue
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(grid[i][j] == 2) {
                     q.push({{i, j}, 0});
-                    vis[i][j] = 2;
                 }
             }
         }
         
-        int drow[] = {0, -1, 0, 1};
-        int dcol[] = {1, 0, -1, 0};
-        int maxi = 0;
-
-        while (!q.empty()) {
-            int row = q.front().first.first;
-            int col = q.front().first.second;
-            int time = q.front().second;
-            q.pop(); // Missing in original code
-
-            maxi = max(maxi, time);
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1) {
-                    q.push({{nrow, ncol}, time + 1});
-                    vis[nrow][ncol] = 2;
-                }
+        int ans = 0;
+        // Perform BFS
+        while(!q.empty()) {
+            auto p = q.front();
+            q.pop();
+            int x = p.first.first;
+            int y = p.first.second;
+            int t = p.second;
+            ans = max(ans, t);
+            
+            // Check all 4 directions
+            if(x - 1 >= 0 && grid[x-1][y] == 1) {
+                q.push({{x-1, y}, t + 1});
+                grid[x-1][y] = 2;
+            }
+            if(y - 1 >= 0 && grid[x][y-1] == 1) {
+                q.push({{x, y-1}, t + 1});
+                grid[x][y-1] = 2;
+            }
+            if(x + 1 < n && grid[x+1][y] == 1) {
+                q.push({{x+1, y}, t + 1});
+                grid[x+1][y] = 2;
+            }
+            if(y + 1 < m && grid[x][y+1] == 1) {
+                q.push({{x, y+1}, t + 1});
+                grid[x][y+1] = 2;
             }
         }
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1 && vis[i][j] == 0) {
+        
+        // Check if any fresh oranges remain
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(grid[i][j] == 1) {
                     return -1;
                 }
             }
         }
-
-        return maxi;
+        
+        return ans;
     }
 };
