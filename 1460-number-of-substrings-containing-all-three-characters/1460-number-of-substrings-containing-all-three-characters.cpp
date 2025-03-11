@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool isvalid(unordered_map<char, int>& m) {
-        return m['a'] > 0 && m['b'] > 0 && m['c'] > 0;
+        if(m['a'] > 0 && m['b'] > 0 && m['c'] > 0) return true;
+        else return false;
     }
 
     int numberOfSubstrings(string s) {
