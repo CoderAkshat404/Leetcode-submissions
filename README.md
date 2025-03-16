@@ -410,6 +410,7 @@
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -476,6 +477,7 @@
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -756,6 +758,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
@@ -830,6 +833,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
