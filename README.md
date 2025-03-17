@@ -419,6 +419,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -491,6 +492,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -782,6 +784,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
@@ -860,6 +863,7 @@
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
