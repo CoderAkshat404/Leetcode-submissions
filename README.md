@@ -296,6 +296,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -358,6 +359,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
+| [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -467,6 +469,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
