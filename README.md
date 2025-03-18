@@ -419,6 +419,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
@@ -493,6 +494,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
@@ -679,6 +681,7 @@
 | [0120-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0198-house-robber) |
@@ -784,6 +787,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
