@@ -422,6 +422,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -495,6 +496,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -789,6 +791,7 @@
 | [0226-invert-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
