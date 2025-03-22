@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void dfs(int node,vector<int>&vis,vector<vector<int>>&adj,int&countn, int & counte){
+    void dfs(int node,vector<int>&vis,vector<vector<int>>&adj,int&counte, int & countn){
         vis[node]=1;
         countn++;
         vector<int> v=adj[node];
         counte+=v.size();
         for(auto i:v){
             if(!vis[i]){
-                dfs(i,vis,adj,countn,counte);
+                dfs(i,vis,adj,counte,countn);
             }
         }
     }
@@ -26,8 +26,8 @@ public:
                 int counte=0;
                 int countn=0;
                 dfs(i,vis,adj,counte,countn);
-                cout<<counte<<" "<<countn<<endl;
-                if(countn==(counte)*(counte-1)){
+                // cout<<counte<<" "<<countn<<endl;
+                if(counte==(countn)*(countn-1)){
                     ans++;
                 }
             }
