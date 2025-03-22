@@ -821,6 +821,7 @@
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -853,6 +854,7 @@
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -907,6 +909,7 @@
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
@@ -926,6 +929,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
