@@ -37,13 +37,13 @@ public:
                 
             }
         }
-        for(auto i:forw){
-            cout<<i<<" ";
-        }
-        cout<<endl;
-        for(auto i:back){
-            cout<<i<<" ";
-        }
+        // for(auto i:forw){
+        //     cout<<i<<" ";
+        // }
+        // cout<<endl;
+        // for(auto i:back){
+        //     cout<<i<<" ";
+        // }
         reverse(back.begin(),back.end());
         int idx=-1;
         for(int i=0;i<n-1;i++){
