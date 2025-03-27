@@ -60,6 +60,7 @@
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -204,6 +205,7 @@
 | [0665-non-decreasing-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
@@ -332,6 +334,7 @@
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -563,6 +566,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -827,6 +831,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
@@ -863,6 +868,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
@@ -915,6 +921,7 @@
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
