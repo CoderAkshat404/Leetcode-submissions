@@ -66,7 +66,7 @@ public:
                     int row=stones[i][0];
                     int col=stones[i][1]+n;
                      ds.addedge(row,col);
-                     mp[row]=1;
+                    
                      mp[col]=1;
                     
         }
