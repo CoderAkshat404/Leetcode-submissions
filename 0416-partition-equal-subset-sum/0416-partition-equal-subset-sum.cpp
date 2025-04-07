@@ -5,13 +5,8 @@ public:
         if(s==0){
             return true;
         }
-        if(i==n-1){
-            if(s==nums[i]){
-                return true;
-            }
-            else{
-                return false;
-            }
+        if(i>=n){
+            return false;
         }
         if(dp[i][s]!=-1){
             return dp[i][s];
@@ -24,7 +19,7 @@ public:
         return dp[i][s]=ans;
     }
     bool canPartition(vector<int>& nums) {
-       ll s=0;
+      ll s=0;
       ll n=nums.size();
         for(ll i=0;i<nums.size();i++){
             s+=nums[i];
@@ -32,7 +27,7 @@ public:
         if(s&1){
             return false;
         }
-       ll i=s/2;
+        ll i=s/2;
         vector<vector<int>>dp(n,vector<int>(i+1,-1));
         bool c=findans(0,i,n,dp,nums);
         return c;
