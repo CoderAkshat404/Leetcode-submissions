@@ -436,6 +436,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
@@ -951,6 +952,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
 | ------- |
