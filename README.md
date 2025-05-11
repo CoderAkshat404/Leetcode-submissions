@@ -235,6 +235,7 @@
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
