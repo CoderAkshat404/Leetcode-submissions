@@ -456,6 +456,7 @@
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -651,6 +652,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 ## Quickselect
 |  |
 | ------- |
