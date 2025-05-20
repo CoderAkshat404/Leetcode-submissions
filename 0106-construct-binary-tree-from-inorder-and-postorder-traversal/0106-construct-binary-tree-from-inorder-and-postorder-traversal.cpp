@@ -11,33 +11,23 @@
  */
 class Solution {
 public:
-    int find(int element,vector<int>& inorder){
-        for(int i=0;i<inorder.size();i++){
-            if(inorder[i]==element){
-                return i;
-            }
+TreeNode* solve(int poss,int pose,int ins,int ine,vector<int>& postorder, vector<int>& inorder,unordered_map<int,int>&m){
+        if (poss > pose || ins > ine) {
+            return nullptr;
+        }
+        TreeNode* x=new TreeNode(postorder[pose]);
+        int numsright=ine-m[x->val];
+        x->left=solve(poss,pose-numsright-1,ins,m[x->val]-1,postorder,inorder,m);
+        x->right=solve(pose-numsright,pose-1,m[x->val]+1,ine,postorder,inorder,m);
+        return x;
 
-        }
-        return -1;
-    }
-    TreeNode* solve(vector<int>& inorder, vector<int>& postorder,int & index,int inorders,int inordere,int size){
-        if(index<0 || inorders>inordere){
-            return NULL;
-        }
-        int element=postorder[index--];
-        TreeNode*root=new TreeNode(element);
-        int pos=find(element,inorder);
-        root->right=solve(inorder,postorder,index,pos+1,inordere,size);
-        root->left=solve(inorder,postorder,index,inorders,pos-1,size);
-        return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int size=postorder.size();
-        int index=size-1;
-        int inorders=0;
-        int inordere=size-1;
-        TreeNode*root=solve(inorder,postorder,index,inorders,inordere,size);
-        return root;
+        unordered_map<int,int> m;
+        for(int i=0;i<postorder.size();i++){
+            m[inorder[i]]=i;
+        }
+        return solve(0,postorder.size()-1,0,inorder.size()-1,postorder,inorder,m);
         
     }
 };
