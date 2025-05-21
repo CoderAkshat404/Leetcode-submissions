@@ -479,6 +479,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
@@ -571,6 +572,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
@@ -828,6 +830,7 @@
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -858,6 +861,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -902,6 +906,7 @@
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
