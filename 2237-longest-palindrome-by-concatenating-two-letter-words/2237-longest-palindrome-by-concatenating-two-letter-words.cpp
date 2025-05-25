@@ -25,7 +25,6 @@ public:
             else if(mp.find(a)==mp.end() && m.count(a)){
                 counter+=min(i.second,m[a]);
                 mp[s]=true;
-                mp[a]=true;
             }
         }
         cout<<counter<<" "<<best2<<" "<<best;
