@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        unordered_map<string,int> m;
+        map<string,int> m;
         for(auto i:words){
             m[i]++;
         }
@@ -22,7 +22,7 @@ public:
                     best++;
                 }
             }
-            else if(mp.find(a)==mp.end() && m.count(a)){
+            else if(mp.find(a)==mp.end()){
                 counter+=min(i.second,m[a]);
                 mp[s]=true;
             }
