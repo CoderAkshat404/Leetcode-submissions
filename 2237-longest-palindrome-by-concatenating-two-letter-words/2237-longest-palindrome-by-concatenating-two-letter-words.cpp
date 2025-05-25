@@ -27,7 +27,7 @@ public:
                 mp[s]=true;
             }
         }
-        cout<<counter<<" "<<best2<<" "<<best;
+       
         
         return (4*counter+(2*min(best,1)+2*best2));
 
