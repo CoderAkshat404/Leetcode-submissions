@@ -1,7 +1,3 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     void dfs(int node, vector<int>& v1, vector<int>& vis1, vector<vector<int>>& adj1, int k, int dist, int psv) {
@@ -21,21 +17,14 @@ public:
         v2[psv]++;
         for (int i : adj2[node]) {
             if (!vis2[i]) {
-                dfs2(i, v2, vis2, adj2, k, dist + 1, psv);  // ✅ Corrected function call
+                dfs2(i, v2, vis2, adj2, k, dist + 1, psv);
             }
         }
     }
 
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
-        // Find maximum node index in both edge lists
-        int maxNode1 = 0, maxNode2 = 0;
-        for (auto& e : edges1)
-            maxNode1 = max(maxNode1, max(e[0], e[1]));
-        for (auto& e : edges2)
-            maxNode2 = max(maxNode2, max(e[0], e[1]));
-
-        int n1 = maxNode1 + 1;
-        int n2 = maxNode2 + 1;
+        int n1 = edges1.size() + 1;
+        int n2 = edges2.size() + 1;
 
         vector<vector<int>> adj1(n1);
         vector<vector<int>> adj2(n2);
@@ -50,25 +39,21 @@ public:
             adj2[edge[1]].push_back(edge[0]);
         }
 
-        vector<int> v1(n1, 0);
-        vector<int> v2(n2, 0);
-        vector<int> vis1(n1, 0);
-        vector<int> vis2(n2, 0);
+        vector<int> v1(n1, 0), v2(n2, 0);
+        vector<int> vis1(n1, 0), vis2(n2, 0);
 
-        // Run DFS from every node in Graph 1
         for (int i = 0; i < n1; i++) {
             fill(vis1.begin(), vis1.end(), 0);
             dfs(i, v1, vis1, adj1, k, 0, i);
         }
 
-        // Run DFS from every node in Graph 2
         for (int i = 0; i < n2; i++) {
             fill(vis2.begin(), vis2.end(), 0);
             dfs2(i, v2, vis2, adj2, k - 1, 0, i);
         }
 
-        // Combine results (example logic: add max value from v2 to v1[i])
         int maxi = *max_element(v2.begin(), v2.end());
+
         for (int i = 0; i < n1; i++) {
             v1[i] += maxi;
         }
