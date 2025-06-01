@@ -11,7 +11,6 @@ public:
     return res;
 }
 
-// Main function to count the number of bounded compositions
 long long countBoundedCompositions(int r, int n, int limit) {
     long long total = 0;
     for (int k = 0; k <= r; ++k) {
