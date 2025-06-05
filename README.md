@@ -237,6 +237,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -377,6 +378,7 @@
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -787,6 +789,7 @@
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
@@ -990,6 +993,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
