@@ -109,6 +109,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -152,6 +153,7 @@
 | [3264-maximum-points-after-enemy-battles](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Array
@@ -413,6 +415,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -590,6 +593,7 @@
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
@@ -879,6 +883,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 ## Backtracking
