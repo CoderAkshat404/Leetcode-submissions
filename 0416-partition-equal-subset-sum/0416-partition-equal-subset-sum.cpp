@@ -1,38 +1,26 @@
-#define ll long long
 class Solution {
 public:
-    bool findans(ll i,ll s,ll n,vector<vector<int>>&dp,vector<int>& nums){
-        if(s==0){
-            return true;
-        }
-        if(i>=n){
-            return false;
-        }
-        if(dp[i][s]!=-1){
-            return dp[i][s];
-        }
-        bool x=0;
-        if(nums[i]<=s){
-            x=findans(i+1,s-nums[i],n,dp,nums);
-        }
-        int ans=x | findans(i+1,s,n,dp,nums);
-        return dp[i][s]=ans;
-    }
     bool canPartition(vector<int>& nums) {
-      ll s=0;
-      ll n=nums.size();
-        for(ll i=0;i<nums.size();i++){
-            s+=nums[i];
+        int sum=0;
+        for(auto i:nums){
+            sum+=i;
         }
-        if(s&1){
-            return false;
+        if(sum&1) return false;
+        int n=nums.size();
+        int target=sum/2;
+        vector<vector<int>> dp(n+1,vector<int>(sum+1,0));
+        for(int i=0;i<=n;i++){
+            dp[i][0]=1;
         }
-        ll i=s/2;
-        vector<vector<int>>dp(n,vector<int>(i+1,-1));
-        bool c=findans(0,i,n,dp,nums);
-        return c;
-        
-      
-        
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=target;j++){
+            bool take=false;
+            if(nums[i]<=j){
+            take=dp[i+1][j-nums[i]];}
+            bool nottake=dp[i+1][j];
+            dp[i][j]=take | nottake;}
+
+        } 
+        return dp[0][target];      
     }
 };
