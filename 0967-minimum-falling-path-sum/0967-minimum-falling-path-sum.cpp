@@ -1,27 +1,34 @@
 class Solution {
 public:
-    int findans(int i,int j,vector<vector<int>>& matrix,vector<vector<int>>& dp){    if(j>=matrix.size() || j<0){
-        return 1e9;
-    }
-        if(i==matrix.size()-1){
-            return matrix[i][j];
-        }
-        if(dp[i][j]!=-1e9){
-            return dp[i][j];
-        }
-        int ans=min(matrix[i][j]+findans(i+1,j,matrix,dp),matrix[i][j]+findans(i+1,j+1,matrix,dp));
-        ans=min(ans,matrix[i][j]+findans(i+1,j-1,matrix,dp));
-        return dp[i][j]=ans;
-
-    }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int ans=INT_MAX;
-        int n=matrix.size();
-        vector<vector<int>> dp(n,vector<int>(n,-1e9));
-        for(int i=0;i<matrix[0].size();i++){
-            ans=min(ans,findans(0,i,matrix,dp));
+        int  n=matrix.size();
+        vector<vector<int>> dp(n+1,vector<int>(n+1,1e8));
+        for(int i=0;i<n;i++){
+            dp[n-1][i]=matrix[n-1][i];
+
         }
-        return ans;
+        for(int i=n-2;i>=0;i--){
+            for(int j=0;j<n;j++){
+            int op1=1e9;
+            int op2=dp[i+1][j];
+            int op3=1e9;
+            if(j-1>=0){
+                op1=dp[i+1][j-1];
+            }
+            if(j+1<n){
+                op3=dp[i+1][j+1];
+            }
+            dp[i][j]=matrix[i][j]+min(op1,min(op2,op3));
+            
+            
+            }
+        }
+        int mini=INT_MAX;
+        for(int i=0;i<n;i++){
+            mini=min(dp[0][i],mini);
+        }
+        return mini;
+
         
     }
 };
