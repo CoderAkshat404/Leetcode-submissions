@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int findans(int amount,vector<int>& coins,int i,vector<vector<int>> &dp){
-        if(amount==0){
-            return 1;
-        }
-        if(i>=coins.size()){
-            return 0;
-        }
-        if(dp[i][amount]!=-1){
-            return dp[i][amount];
-        }
-        int inc=0;
-        if(coins[i]<=amount){
-            inc=findans(amount-coins[i],coins,i,dp);
-        }
-        int exc=findans(amount,coins,i+1,dp);
-        return dp[i][amount]=inc+exc;
-    }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(coins.size(),vector<int> (amount+1,-1));
-        int ans=findans(amount,coins,0,dp);
-        return ans;
+        int n=coins.size();
+        vector<vector<unsigned long long >> dp(n+1,vector<unsigned long long>(amount+1,0));
+        for(int i=0;i<=n;i++){
+            dp[i][0]=1;
+        }
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=amount;j++){
+                unsigned long long take=0;
+                if(j>=coins[i]){
+                    take=dp[i][j-coins[i]];
+                }
+                unsigned long long nottake=dp[i+1][j];
+                dp[i][j]=take+nottake;
+            }
+        }
+
+        return dp[0][amount];
         
     }
 };
