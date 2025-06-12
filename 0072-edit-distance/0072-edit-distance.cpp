@@ -1,51 +1,27 @@
 class Solution {
 public:
-    int findans(int i,int j,string word1, string word2,vector<vector<int>>&dp){
-        if(i==word1.length()){
-            return word2.length()-j;
-        }
-        if(j==word2.length()){
-             return word1.length()-i;
-
-        }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
-        if(word1[i]==word2[j]){
-            return dp[i][j]=findans(i+1,j+1,word1,word2,dp);
-        }
-        int op1=1+findans(i,j+1,word1,word2,dp);
-        int op2=1+findans(i+1,j+1,word1,word2,dp);
-        int op3=1+findans(i+1,j,word1,word2,dp);
-        return dp[i][j]=min(op1,min(op2,op3));
-        
-    }
     int minDistance(string word1, string word2) {
         int n=word1.length();
         int m=word2.length();
-        vector<int> forw(m+1,0),curr(m+1,0);
-        
-        for(int j=0;j<=m;j++){
-            forw[j]=m-j;
-
+        vector<vector<int>> dp(n+1,vector<int>(m+1,1e9));
+        dp[n][m]=0;
+        for(int i=0;i<m;i++){
+            dp[n][i]=m-i;
+        }
+        for(int i=0;i<n;i++){
+            dp[i][m]=n-i;
         }
         for(int i=n-1;i>=0;i--){
-            curr[m]=n-i;
             for(int j=m-1;j>=0;j--){
                 if(word1[i]==word2[j]){
-                   curr[j]=forw[j+1];
+                    dp[i][j]=dp[i+1][j+1];
                 }
                 else{
-                    int op1=1+forw[j];
-                    int op2=1+forw[j+1];
-                    int op3=1+curr[j+1];
-                    curr[j]=min(op1,min(op2,op3));
+                    dp[i][j]=1+min(dp[i][j+1],min(dp[i+1][j],dp[i+1][j+1]));
                 }
             }
-            forw=curr;
         }
-        return forw[0];
-        
+        return dp[0][0];
         
     }
 };
