@@ -346,6 +346,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
