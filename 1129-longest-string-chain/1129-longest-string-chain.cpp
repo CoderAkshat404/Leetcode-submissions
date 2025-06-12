@@ -1,16 +1,15 @@
 class Solution {
 public:
-    bool static cmp(string a,string b){
-        return a.length()<b.length();
-    }
-    bool check(string a,string b){
-        if(a.size()!=b.size()+1){
+    bool check(string s1,string s2){
+        int n=s1.length();
+        int m=s2.length();
+        if(n!=m+1){
             return false;
         }
         int i=0;
         int j=0;
-        while(i<a.size()){
-            if(a[i]==b[j]){
+        while(i<n && j<m){
+            if(s1[i]==s2[j]){
                 i++;
                 j++;
             }
@@ -18,25 +17,30 @@ public:
                 i++;
             }
         }
-        if(i==a.size() && j==b.size()){
-            return true;
-        }
-        return false;
+        return (i==n && j==m) ||(i==n-1 && j==m);
+
     }
     int longestStrChain(vector<string>& words) {
-        sort(words.begin(),words.end(),cmp);
-        int maxi=INT_MIN;
-        vector<int> dp(words.size(),1);
-        for(int i=0;i<words.size();i++){
-            for(int j=0;j<i;j++){
-                if(check(words[i],words[j]) && dp[j]+1>dp[i]){
-                    dp[i]=dp[j]+1;
-                }
-                
-            }
-            maxi=max(maxi,dp[i]);
+        sort(words.begin(), words.end(), [](string& a, string& b) {
+    return a.size() < b.size();
+});
 
+        int n=words.size();
+        vector<int> dp(n+1,1);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(check(words[i],words[j])){
+                    if(dp[i]<dp[j]+1){
+                        dp[i]=dp[j]+1;
+                    }
+                }
+            }
         }
-     return maxi;   
+        int maxi=INT_MIN;
+        for(auto i:dp){
+            maxi=max(maxi,i);
+        }
+        return maxi;
+        
     }
 };
