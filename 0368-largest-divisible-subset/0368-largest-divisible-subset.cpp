@@ -1,31 +1,38 @@
 class Solution {
 public:
-    vector<vector<vector<int>>> dp;
-
-    vector<int> solve(int i, vector<int>& nums, int prevIdx) {
-        if (i == nums.size()) return {};
-
-        if (!dp[i][prevIdx + 1].empty()) return dp[i][prevIdx + 1];
-
-        // Option 1: Skip current element
-        vector<int> exclude = solve(i + 1, nums, prevIdx);
-
-        // Option 2: Include current element (if divisible)
-        vector<int> include;
-        if (prevIdx == -1 || nums[i] % nums[prevIdx] == 0) {
-            include = solve(i + 1, nums, i);
-            include.insert(include.begin(), nums[i]);
-        }
-
-        // Choose the better option
-        dp[i][prevIdx + 1] = (include.size() > exclude.size()) ? include : exclude;
-        return dp[i][prevIdx + 1];
-    }
-
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
-        dp.resize(n, vector<vector<int>>(n + 1));  // prevIdx + 1 ranges from 0 to n
-        return solve(0, nums, -1);
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        vector<int> dp(n+1,1);
+        vector<int> hash(n);
+        for(int i=0;i<n;i++){
+            hash[i]=i;
+            for(int j=0;j<i;j++){
+                if(nums[i]%nums[j]==0 && dp[i]<dp[j]+1){
+                    dp[i]=dp[j]+1;
+                    hash[i]=j;
+                }
+            }
+
+        }
+        int maxi=-1;
+        int last=-1;
+        for(int i=0;i<n;i++){
+            if(dp[i]>maxi){
+                last=i;
+                maxi=dp[i];
+            }
+        }
+        vector<int> ans;
+        ans.push_back(nums[last]);
+        while(hash[last]!=last){
+            last=hash[last];
+             ans.push_back(nums[last]);
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
+
+
+        
     }
 };
