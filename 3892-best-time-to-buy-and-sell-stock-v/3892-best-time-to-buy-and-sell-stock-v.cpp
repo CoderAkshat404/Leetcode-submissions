@@ -2,14 +2,17 @@ class Solution {
 public:
     long long  dp[1001][3][1001]; 
     long long solve(int i,int status,int k,vector<int>& prices){
-        if(i>=prices.size()){
+        if(i>=prices.size() && (status==2 || status==1)){
             return 0;
         }
-        if (i == prices.size() - 1) {
-            if (status == 1) return prices[i];
-            if (status == 0) return -prices[i];
-            return 0;
+        if(i>=prices.size() && status==0){
+            return -1e9;
         }
+        // if (i == prices.size() - 1) {
+        //     if (status == 1) return prices[i];
+        //     if (status == 0) return -prices[i];
+        //     return 0;
+        // }
         if(k==0){
             return 0;
         }
