@@ -23,9 +23,9 @@ public:
         int n=arr.size();
         for(int i=n-1;i>=0;i--){
             for(int j=0;j<n;j++){
-                if(i==j){
-                    continue;
-                }
+                // if(i==j){
+                //     continue;
+                // }
                 int ans=0;
                 int maxi=0;
                 for(int l=i;l<i+k && l<n;l++){
