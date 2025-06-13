@@ -48,6 +48,7 @@
 | [0072-edit-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
@@ -841,6 +842,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0198-house-robber) |
