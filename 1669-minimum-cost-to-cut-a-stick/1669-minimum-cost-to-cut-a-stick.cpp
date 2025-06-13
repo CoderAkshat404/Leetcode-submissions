@@ -1,39 +1,38 @@
 class Solution {
 public:
-    int findans(int i,int j,vector<int> &cuts,vector<vector<int>>&dp){
-        if(i>j){
+    int solve(int l,int r,vector<int>& cuts){
+        if(l==r-1){
             return 0;
         }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
-        }
         int ans=1e9;
-        for(int indx=i;indx<=j;indx++){
-            ans=min(ans,findans(i,indx-1,cuts,dp)+findans(indx+1,j,cuts,dp)+cuts[j+1]-cuts[i-1]);
+        for(int i=l+1;i<r;i++){
+            ans=min(ans,cuts[r]-cuts[l]+solve(l,i,cuts)+solve(i,r,cuts));
         }
-        return dp[i][j]=ans;
+        return ans;
     }
-    int minCost(int n, vector<int>& cuts) {
-        cuts.push_back(n);
-        cuts.insert(cuts.begin(),0);
+    int minCost(int x, vector<int>& cuts) {
+        cuts.push_back(x);
+        reverse(cuts.begin(),cuts.end());
+
+        cuts.push_back(0);
+        reverse(cuts.begin(),cuts.end());
         sort(cuts.begin(),cuts.end());
-        int m=cuts.size();
-        vector<vector<int>> dp(m+2,vector<int>(m+2,0));
-        for(int i=m;i>=1;i--){
-            for(int j=0;j<=m-2;j++){
-                if(i>j){
-                    continue;
-                }
+        int n=cuts.size();
+        vector<vector<int>> dp(n,vector<int>(n,0));
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<n;j++){
                 int ans=1e9;
-                for(int indx=i;indx<=j;indx++){
-                    ans=min(ans,dp[i][indx-1]+dp[indx+1][j]+cuts[j+1]-cuts[i-1]);
+                for(int k=i+1;k<j;k++){
+                    ans=min(ans,cuts[j]-cuts[i]+dp[i][k]+dp[k][j]);
                 }
-                dp[i][j]=ans;
-                
+                if (ans != 1e9)  // only update if a valid cut was found
+            dp[i][j] = ans;
+        else
+            dp[i][j] = 0;
             }
         }
-        return dp[1][cuts.size()-2];
-        
+        return dp[0][n-1];
+
         
     }
 };
