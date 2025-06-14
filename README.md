@@ -161,6 +161,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Array
 |  |
 | ------- |
@@ -355,6 +356,7 @@
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Hash Table
 |  |
