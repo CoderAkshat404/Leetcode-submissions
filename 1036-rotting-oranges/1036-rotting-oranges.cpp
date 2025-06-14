@@ -1,74 +1,73 @@
 class Solution {
 public:
+    int maxi;
+    int n, m;
+    vector<int> dx;
+    vector<int> dy;
+
+    bool check(int i, int j, vector<vector<int>>& grid) {
+        if (i >= 0 && i < n && j >= 0 && j < m && grid[i][j] == 1) {
+            return true;
+        }
+        return false;
+    }
+
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<int>> vis(n,vector<int>(m,0));
-        queue<pair<pair<int,int>,int>> q;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.push({{i,j},0});
-                    vis[i][j]=2;
-                    
+        maxi = 0;
+        n = grid.size();
+        m = grid[0].size();
+        dx = {1, 0, -1, 0};
+        dy = {0, 1, 0, -1};
+
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        queue<pair<pair<int, int>, int>> q;
+
+        // Push all rotten oranges into the queue
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    q.push({{i, j}, 0});
+                    vis[i][j] = 1;
                 }
             }
         }
-        int ans=0;
-        while(!q.empty()){
-            pair<pair<int,int>,int> p=q.front();
+
+        // BFS from all rotten oranges
+        while (!q.empty()) {
+            auto it = q.front();
             q.pop();
-            ans=max(ans,p.second);
-            int x=p.first.first;
-            int y=p.first.second;
-            int t=p.second;
-            if(x-1>=0){
-                if(grid[x-1][y]==1){
-                    q.push({{x-1,y},t+1});
-                    vis[x-1][y]=2;
-                    grid[x-1][y]=2;
-                }
-            }
-            if(y-1>=0){
-                if(grid[x][y-1]==1){
-                    q.push({{x,y-1},t+1});
-                    vis[x][y-1]=2;
-                    grid[x][y-1]=2;
-                }
+            int i = it.first.first;
+            int j = it.first.second;
+            int time = it.second;
+            maxi = max(maxi, time);
 
-            }
-            if(x+1<n){
-                if(grid[x+1][y]==1){
-                    q.push({{x+1,y},t+1});
-                    vis[x+1][y]=2;
-                    grid[x+1][y]=2;
+            for (int k = 0; k < 4; k++) {
+                int ni = i + dx[k];
+                int nj = j + dy[k];
+                if (check(ni, nj, grid) && vis[ni][nj] == 0) {
+                    vis[ni][nj] = 1;
+                    q.push({{ni, nj}, time + 1});
                 }
-
-            }
-            if(y+1<m){
-                if(grid[x][y+1]==1){
-                    q.push({{x,y+1},t+1});
-                    vis[x][y+1]=2;
-                    grid[x][y+1]=2;
-                }
-
             }
         }
-        bool flag=true;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1 && vis[i][j]==0){
-                    flag=false;
+
+        // Check if any fresh orange is left
+        bool flag = true;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1 && vis[i][j] == 0) {
+                    flag = false;
                     break;
                 }
             }
+            if (!flag) {
+                break;
+            }
         }
-        if(flag){
-            return ans;
+
+        if (flag) {
+            return maxi;
         }
         return -1;
-
-
-        
     }
 };
