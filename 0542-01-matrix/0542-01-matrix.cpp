@@ -1,56 +1,42 @@
 class Solution {
 public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<int>> ans(n,vector<int>(m,0));
+    bool check(int i,int j,vector<vector<int>>& mat,vector<vector<int>>&vis){
+        return (i<mat.size() && i>=0 && j<mat[0].size() && j>=0 && vis[i][j]==0 && mat[i][j]==1);
+    }
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        int n=mat.size();
+        int m=mat[0].size();
         vector<vector<int>> vis(n,vector<int>(m,0));
         queue<pair<pair<int,int>,int>> q;
+        int dx[]={1,0,-1,0};
+        int dy[]={0,1,0,-1};
+        vector<vector<int>> dis(n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==0){
+                if(mat[i][j]==0){
                     q.push({{i,j},0});
                     vis[i][j]=1;
-                    ans[i][j]=0;
                 }
             }
         }
         while(!q.empty()){
-            int x=q.front().first.first;
-            int y=q.front().first.second;
+            int i=q.front().first.first;
+            int j=q.front().first.second;
             int d=q.front().second;
             q.pop();
-            if(x-1>=0){
-                if(vis[x-1][y]==0){
-                    vis[x-1][y]=1;
-                    q.push({{x-1,y},d+1});
-                    ans[x-1][y]=d+1;
+            for(int k=0;k<4;k++){
+                int ni=i+dx[k];
+                int nj=j+dy[k];
+                int nd=d+1;
+                if(check(ni,nj,mat,vis)){
+                    vis[ni][nj]=1;
+                    dis[ni][nj]=nd;
+                    q.push({{ni,nj},nd});
                 }
             }
-            if(y-1>=0){
-                if(vis[x][y-1]==0){
-                    vis[x][y-1]=1;
-                    q.push({{x,y-1},d+1});
-                    ans[x][y-1]=d+1;
-                }
-            }
-            if(x+1<n){
-                if(vis[x+1][y]==0){
-                    vis[x+1][y]=1;
-                    q.push({{x+1,y},d+1});
-                    ans[x+1][y]=d+1;
-                }
-            }
-            if(y+1<m){
-                if(vis[x][y+1]==0){
-                    vis[x][y+1]=1;
-                    q.push({{x,y+1},d+1});
-                    ans[x][y+1]=d+1;
-                }
-            }
-        }
-        return ans;
 
+        }
+        return dis;
         
     }
 };
