@@ -11,7 +11,7 @@ public:
             string word=q.front().first;
             int dis=q.front().second;
             if(word==endword){
-                ans=min(ans,dis);
+                return dis;
             }
             q.pop();
             for(int i=0;i<word.length();i++){
