@@ -1,33 +1,24 @@
 class Solution {
 public:
     vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-         vector<vector<int>> adj(n);
-        for(int i=0;i< prerequisites.size();i++){
-            int x= prerequisites[i][1];
-            int y= prerequisites[i][0];
-            adj[x].push_back(y);
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n);
+        for(int i=0;i<prerequisites.size();i++){
+            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
+            indegree[prerequisites[i][0]]++;
         }
-        vector<int> indegree(n,0);
-        for(int i=0;i<n;i++){
-            vector<int> v=adj[i];
-            for(auto j:v){
-                indegree[j]++;
-            }
-        }
-        
         queue<int> q;
+        vector<int> topo;
         for(int i=0;i<n;i++){
             if(indegree[i]==0){
                 q.push(i);
             }
         }
-        vector<int> topo;
         while(!q.empty()){
             int node=q.front();
-            topo.push_back(q.front());
             q.pop();
-            vector<int> v=adj[node];
-            for(auto i:v){
+            topo.push_back(node);
+            for(auto i:adj[node]){
                 indegree[i]--;
                 if(indegree[i]==0){
                     q.push(i);
