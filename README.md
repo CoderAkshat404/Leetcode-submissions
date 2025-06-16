@@ -999,6 +999,7 @@
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1113,6 +1114,7 @@
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
@@ -1144,6 +1146,7 @@
 | [0547-number-of-provinces](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1156,6 +1159,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Queue
