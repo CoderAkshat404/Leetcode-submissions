@@ -13,14 +13,19 @@ public:
         dist[src]=0;
         q.push({0,src,0});
         while(!q.empty()){
-            int st=q.front()[0];
-            int node=q.front()[1];
-            int d=q.front()[2];
+            vector<int> t=q.front();
             q.pop();
-            for(auto i:adj[node]){
-                if(st<=k){
-                    dist[i.first]=min(d+i.second,dist[i.first]);
-                    q.push({st+1,i.first,dist[i.first]});
+            int stops=t[0];
+            int node=t[1];
+            int d=t[2];
+            vector<pair<int,int>> v=adj[node];
+            for(auto i:v){
+                int nd=d+i.second;
+                if(nd<dist[i.first]){
+                    if(stops<=k){
+                        dist[i.first]=nd;
+                        q.push({stops+1,i.first,nd});
+                    }
                 }
             }
 
