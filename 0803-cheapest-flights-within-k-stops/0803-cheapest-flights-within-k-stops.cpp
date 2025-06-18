@@ -13,15 +13,15 @@ public:
         dist[src]=0;
         q.push({0,src,0});
         while(!q.empty()){
-            int st=q.front()[0];
+            int st=q.front()[2];
             int node=q.front()[1];
-            int d=q.front()[2];
+            int d=q.front()[0];
             q.pop();
             for(auto i:adj[node]){
                 if(st<=k){
                     if(dist[i.first]>d+i.second){
                     dist[i.first]=min(d+i.second,dist[i.first]);
-                    q.push({st+1,i.first,dist[i.first]});}
+                    q.push({dist[i.first],i.first,st+1});}
                 }
             }
 
