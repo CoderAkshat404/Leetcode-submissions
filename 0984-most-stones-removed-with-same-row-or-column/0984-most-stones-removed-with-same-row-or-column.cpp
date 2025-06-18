@@ -32,7 +32,7 @@ class DSU {
             }
         }
     
-        void unionBySize(int u, int v) {
+        void unionbysize(int u, int v) {
             int pu = findparent(u);
             int pv = findparent(v);
             if (pu == pv) return;
@@ -47,37 +47,35 @@ class DSU {
         }
     };
 
-
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-        int n=0;
-        int m=0;
-        for(int i=0;i<stones.size();i++){
-            n=max(n,stones[i][0]);
-            m=max(m,stones[i][1]);
+        int n=INT_MIN;
+        int m=INT_MIN;
+        for(auto i: stones){
+            n=max(n,i[0]);
+            m=max(m,i[1]);
         }
         n++;
         m++;
-        
         DSU ds(n+m);
-        unordered_map<int,int> mp;
-        for(int i=0;i<stones.size();i++){
-                    int row=stones[i][0];
-                    int col=stones[i][1]+n;
-                     ds.addedge(row,col);
-                    
-                     mp[col]=1;
-                    
+          unordered_map<int,bool> mp;
+        for(auto i:stones){
+            ds.unionbysize(i[0],i[1]+n);
+             mp[i[0]]=true;
+             mp[i[1]+n]==true;
         }
-        int ans=0;
+        int x=0;
+      
         for(auto i:mp){
             if(ds.findparent(i.first)==i.first){
-            ans++;}
+               
+                x++;
+            }
+            
+                
         }
-        
-        return stones.size()-ans;
-
+        return stones.size()-x;
         
     }
 };
