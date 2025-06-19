@@ -1,131 +1,114 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class DSU {
-public:
-    vector<int> rank, parent, size;
-    
-    DSU(int n) {
-        rank.resize(n + 1, 0);
-        parent.resize(n + 1);
-        size.resize(n + 1, 1);  // Correctly initialize size to 1
+    public:
+        vector<int> rank, parent, size;
         
-        for (int i = 0; i <= n; i++) {
-            parent[i] = i;
+        DSU(int n) {
+            rank.resize(n + 1, 0);
+            parent.resize(n + 1);
+            size.resize(n + 1, 1);  
+            
+            for (int i = 0; i <= n; i++) {
+                parent[i] = i;
+            }
         }
-    }
-
-    int findParent(int n) {
-        if (n == parent[n]) return n;
-        return parent[n] = findParent(parent[n]);
-    }
-
-    void unionByRank(int u, int v) {
-        int pu = findParent(u);
-        int pv = findParent(v);
-        if (pu == pv) return;
-
-        if (rank[pu] > rank[pv]) {
-            parent[pv] = pu;
-        } else if (rank[pu] < rank[pv]) {
-            parent[pu] = pv;
-        } else {
-            parent[pu] = pv;
-            rank[pv]++;
+    
+        int findparent(int n) {
+            if (n == parent[n]) return n;
+            return parent[n] = findparent(parent[n]);
         }
-    }
-
-    void unionBySize(int u, int v) {
-        int pu = findParent(u);
-        int pv = findParent(v);
-        if (pu == pv) return;
-
-        if (size[pu] > size[pv]) {
-            parent[pv] = pu;
-            size[pu] += size[pv];  // Correct size update
-        } else {
-            parent[pu] = pv;
-            size[pv] += size[pu];  // Correct size update
+    
+        void addedge(int u, int v) {
+            int pu = findparent(u);
+            int pv = findparent(v);
+            if (pu == pv) return;
+    
+            if (rank[pu] > rank[pv]) {
+                parent[pv] = pu;
+            } else if (rank[pu] < rank[pv]) {
+                parent[pu] = pv;
+            } else {
+                parent[pu] = pv;
+                rank[pv]++;
+            }
         }
-    }
-};
+    
+        void unionbysize(int u, int v) {
+            int pu = findparent(u);
+            int pv = findparent(v);
+            if (pu == pv) return;
+    
+            if (size[pu] > size[pv]) {
+                parent[pv] = pu;
+                size[pu] += size[pv]; 
+            } else {
+                parent[pu] = pv;
+                size[pv] += size[pu]; 
+            }
+        }
+    };
+
+
 
 class Solution {
 public:
+    bool check(int i,int j,vector<vector<int>>& grid){
+        return (i>=0) && (i<grid.size()) && (j>=0) && (j<grid[0].size());
+    }
     int largestIsland(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        DSU ds(n * m);
-        
-        // Step 1: Union all existing 1s in the grid
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j]) {
-                    int u = i * m + j;
-                    
-                    if (i - 1 >= 0 && grid[i - 1][j] == 1) {
-                        int v = (i - 1) * m + j;
-                        ds.unionBySize(u, v);
-                    }
-                    if (j - 1 >= 0 && grid[i][j - 1] == 1) {
-                        int v = i * m + (j - 1);
-                        ds.unionBySize(u, v);
-                    }
-                    if (i + 1 < n && grid[i + 1][j] == 1) {
-                        int v = (i + 1) * m + j;
-                        ds.unionBySize(u, v);
-                    }
-                    if (j + 1 < m && grid[i][j + 1] == 1) {
-                        int v = i * m + (j + 1);
-                        ds.unionBySize(u, v);
+        int n=grid.size();
+        int m=grid[0].size();
+        DSU ds(n*m);
+        int dx[]={0,1,0,-1};
+        int dy[]={1,0,-1,0};
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==1){
+                    int number=(m*i)+j;
+                    for(int k=0;k<4;k++){
+                        int nr=i+dx[k];
+                        int nc=j+dy[k];
+                        int no=(nr*m)+nc;
+                        if(check(nr,nc,grid) && grid[nr][nc]==1){
+                            ds.unionbysize(number,no);
+                        }
                     }
                 }
             }
         }
 
-        // Step 2: Check for largest island size
-        int maxi = 0;
-
-        // Edge case: If the grid is already all 1s
-        bool allOnes = true;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 0) {
-                    allOnes = false;
+        bool flag=true;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==0){
+                    flag=false;
                     break;
                 }
             }
-            if (!allOnes) break;
         }
-        if (allOnes) return n * m;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 0) {
+        if(flag) return n*n;
+        int maxi=-1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==0){
                     unordered_set<int> s;
+                    for(int k=0;k<4;k++){
+                        int nr=i+dx[k];
+                        int nc=j+dy[k];
+                        int no=(nr*m)+nc;
+                        if(check(nr,nc,grid) && grid[nr][nc]==1){
+                            s.insert(ds.findparent(no));
+                        }
 
-                    if (i - 1 >= 0 && grid[i - 1][j] == 1) {
-                        s.insert(ds.findParent((i - 1) * m + j));
                     }
-                    if (j - 1 >= 0 && grid[i][j - 1] == 1) {
-                        s.insert(ds.findParent(i * m + (j - 1)));
+                    int count=0;
+                    for(auto l:s){
+                        count+=ds.size[l];
                     }
-                    if (i + 1 < n && grid[i + 1][j] == 1) {
-                        s.insert(ds.findParent((i + 1) * m + j));
-                    }
-                    if (j + 1 < m && grid[i][j + 1] == 1) {
-                        s.insert(ds.findParent(i * m + (j + 1)));
-                    }
+                    maxi=max(maxi,count+1);
 
-                    int newSize = 1;  // Flip 0 to 1
-                    for (auto parent : s) {
-                        newSize += ds.size[parent];  // Add sizes of neighboring components
-                    }
-                    maxi = max(maxi, newSize);
                 }
             }
         }
-
-        return maxi;
+      return maxi;  
     }
 };
