@@ -1,42 +1,28 @@
 class Solution {
 public:
-    int findTheCity(int n, vector<vector<int>>& edges, int k) {
-        vector<vector<int>> v(n,vector<int>(n,1e9));
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
+        vector<vector<int>> dist(n,vector<int>(n,1e9));
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i==j){
-                    v[i][j]=0;
-                }
-            }
+            dist[i][i]=0;
         }
         for(int i=0;i<edges.size();i++){
-            int u=edges[i][0];
-            int t=edges[i][1];
-            int d=edges[i][2];
-            v[u][t]=d;
-            v[t][u]=d;
+                dist[edges[i][0]][edges[i][1]]=edges[i][2];
+                dist[edges[i][1]][edges[i][0]]=edges[i][2];
+            
         }
-        for(int via=0;via<n;via++){
+        for(int k=0;k<n;k++){
             for(int i=0;i<n;i++){
                 for(int j=0;j<n;j++){
-                    v[i][j]=min(v[i][j],v[i][via]+v[via][j]);
-                    
+                    dist[i][j]=min(dist[i][j],dist[i][k]+dist[k][j]);
                 }
             }
-
         }
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<n;j++){
-        //        cout<<v[i][j]<<" ";
-        //     }
-        //     cout<<endl;
-        // }
+        int mini=1e9;
         int ans=-1;
-        int mini=INT_MAX;
         for(int i=0;i<n;i++){
             int count=0;
             for(int j=0;j<n;j++){
-                if(v[i][j]<=k){
+                if(dist[i][j]<=distanceThreshold && i!=j){
                     count++;
                 }
             }
@@ -44,11 +30,8 @@ public:
                 mini=count;
                 ans=i;
             }
-
         }
         return ans;
-
-
         
     }
 };
