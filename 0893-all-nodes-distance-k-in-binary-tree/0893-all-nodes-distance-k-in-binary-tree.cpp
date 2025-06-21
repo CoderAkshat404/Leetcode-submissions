@@ -19,40 +19,30 @@ public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         unordered_map<TreeNode*,TreeNode*> m;
         solve(root,m,NULL);
+        unordered_map<TreeNode*,bool> vis;
         queue<pair<TreeNode*,int>> q;
-        unordered_map<TreeNode*,bool> mp;
         q.push({target,0});
-        mp[target]=true;
+        vis[target]=1;
         vector<int> ans;
-        
         while(!q.empty()){
-            int d=q.front().second;
-            TreeNode* temp=q.front().first;
+            TreeNode* node=q.front().first;
+            int level=q.front().second;
             q.pop();
-            if(d==k){
-                ans.push_back(temp->val);
+            if(level==k){
+                ans.push_back(node->val);
             }
-            if(temp->left){
-                if(d+1<=k && mp[temp->left]==false){
-                    q.push({temp->left,d+1});
-                    mp[temp->left]=true;
-                }
-                
+            if(level+1<=k && vis[node->left]==false && node->left!=NULL ){
+                vis[node->left]=1;
+                q.push({node->left,level+1});
             }
-            if(temp->right){
-                if(d+1<=k && mp[temp->right]==false){ 
-                q.push({temp->right,d+1});
-                mp[temp->right]=true;}
-
+            if(level+1<=k && vis[node->right]==false && node->right!=NULL){
+                vis[node->right]=1;
+                q.push({node->right,level+1});
             }
-            if(m[temp]){
-                if(d+1<=k && mp[m[temp]]==false){
-                q.push({m[temp],d+1});
-                mp[m[temp]]=true;
-                }
-                
+            if(level+1<=k && vis[m[node]]==false && m[node]!=NULL){
+                vis[m[node]]=1;
+                q.push({m[node],level+1});
             }
-
         }
         return ans;
 
