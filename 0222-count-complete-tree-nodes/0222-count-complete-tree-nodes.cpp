@@ -12,28 +12,33 @@
 class Solution {
 public:
     int lefth(TreeNode* root){
-        int h=1;
+        int ans=1;
         while(root){
-            h++;
+            ans++;
             root=root->left;
         }
-        return h;
+        return ans;
     }
     int righth(TreeNode* root){
-        int h=1;
+        int ans=1;
         while(root){
-            h++;
+            ans++;
             root=root->right;
         }
-        return h;
+        return ans;
 
     }
     int countNodes(TreeNode* root) {
-        if(root==NULL) return 0;
+        if(root==NULL){
+            return 0;
+        }
         int l=lefth(root->left);
         int r=righth(root->right);
-        if(l==r) return (1<<l)-1;
-        else return 1+countNodes(root->left)+countNodes(root->right);
+        if(l==r){
+            return (1<<l)-1;
+        }
+        return 1+countNodes(root->left)+countNodes(root->right);
+        
 
         
     }
