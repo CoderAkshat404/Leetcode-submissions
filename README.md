@@ -426,6 +426,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -551,6 +552,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Design
 |  |
@@ -667,6 +669,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2384-root-equals-sum-of-children) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -1037,6 +1040,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Trie
@@ -1157,6 +1161,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Segment Tree
