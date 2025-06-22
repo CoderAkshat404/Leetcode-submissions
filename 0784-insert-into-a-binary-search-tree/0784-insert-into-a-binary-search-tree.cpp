@@ -11,55 +11,39 @@
  */
 class Solution {
 public:
-    void findans(TreeNode* root, int X,int &mini){
-    if(root==NULL){
-        return;
-    }
-    if(root->val==X){
-        mini=0;
-        return ;
-    }
-    if(root->val>X){
-        findans(root->left,X,mini);
-    }
-    if(root->val<X){
-        mini=min(mini,X-root->val);
-        findans(root->right,X,mini);
-    }
-    }
-    void makechanges(TreeNode*& root, int newval,int val){
-        if(root==NULL){
-            return;
-        }
-        if(root->val==newval){
-            TreeNode*temp=root->right;
-            TreeNode* x=new TreeNode(val);
-            root->right=x;
-            x->right=temp;
-            return;
-        }
-        if(root->val>newval){
-            makechanges(root->left,newval,val);
-        }
-        else{
-            makechanges(root->right,newval,val);
-
-        }
-    }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        int mini=1e9;
-        findans(root,val,mini);
-        if(mini==1e9){
-            TreeNode* x=new TreeNode(val);
-            x->right=root;
+        if(root==NULL){
+            TreeNode *x=new TreeNode(val);
             return x;
         }
-        else{
-            int newval=val-mini;
-            makechanges(root,newval,val);
-            return root;
-        }
+         TreeNode* temp=root;
+        while(root){
+            if(root->val>val){
+                if(root->left==NULL)
+                {
+                    TreeNode *x=new TreeNode(val);
+                    root->left=x;
+                    break;
+                }
+                else{
+                    root=root->left;
+                }
+            }
+            else{
+                if(root->right==NULL)
+                {
+                    TreeNode *x=new TreeNode(val);
+                    root->right=x;
+                    break;
+                }
+                else{
+                    root=root->right;
 
+                }
+
+            }
+        }
+        return temp;
         
     }
 };
