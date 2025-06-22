@@ -520,6 +520,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0101-symmetric-tree) |
@@ -572,6 +573,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
+| [0098-validate-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
@@ -639,6 +641,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0101-symmetric-tree) |
@@ -1006,6 +1009,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0101-symmetric-tree) |
