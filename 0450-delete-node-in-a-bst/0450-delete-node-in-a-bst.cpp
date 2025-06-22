@@ -11,110 +11,94 @@
  */
 class Solution {
 public:
-    void dothat(TreeNode* & root, int key){
+    TreeNode* deleteNode(TreeNode* root, int key) {
+     
         if(root==NULL){
-            return;
+            return NULL;
         }
-        if(root->left!=NULL){
-            if(root->left->val==key){
-                TreeNode*temp=root->left;
-                if(root->left->right){
-                    root->left=root->left->right;
+        TreeNode* temp=root;
+        while(root){
+            if(root->val==key){
+                if(root->right){
                     TreeNode* x=root->left;
-                    while(x->left!=NULL){
-                        x=x->left;
-
+                    TreeNode* y = root->right;
+                    while(y->left!=NULL){
+                        y=y->left;
                     }
-                    x->left=temp->left;
-                    return;
+                    y->left=x;
+                    temp=root->right;
+                    break;
+                    
+
                 }
-                else if(root->left->left){
-                    root->left=root->left->left;
-                    TreeNode* x=root->left;
-                    while(x->right!=NULL){
-                        x=x->right;
-                    }
-                    x->right=temp->right;
-                    return;
-
+                else if(root->left){
+                    temp=root->left;
+                    break;
                 }
                 else{
-                    root->left=NULL;
-                    return;
+                    return NULL;
+                }
+
+            }
+            else if(root->left){
+                if(root->left->val==key){
+                    if(root->left->right){
+                        TreeNode* x=root->left->left;
+                        root->left=root->left->right;
+                        
+                        // FIXED: move to leftmost of new root->left
+                        TreeNode* y = root->left;
+                        while(y->left!=NULL){
+                            y=y->left;
+                        }
+                        y->left=x; // attach preserved left subtree
+                        break;    
+                    }
+                    else if(root->left->left){
+                        TreeNode* x=root->left->left;
+                        root->left=x;
+                        break;
+                    }
+                    else{
+                        root->left=NULL;
+                        break;
+                    }
                 }
             }
-        }
-        if(root->right!=NULL){
-            if(root->right->val==key){
-                TreeNode*temp=root->right;
-                if(root->right->right){
-                    root->right=root->right->right;
-                    TreeNode* x=root->right;
-                    while(x->left!=NULL){
-                        x=x->left;
 
-                    }
-                    x->left=temp->left;
-                    return;
-                }
-                else if(root->right->left){
+            if(root->right && root->right->val==key){
+                if(root->right->left){
+                    TreeNode* x=root->right->right;
                     root->right=root->right->left;
-                    TreeNode* x=root->right;
-                    while(x->right!=NULL){
-                        x=x->right;
+
+                    // FIXED: move to rightmost of new root->right
+                    TreeNode* y = root->right;
+                    while(y->right!=NULL){
+                        y=y->right;
                     }
-                    x->right=temp->right;
-                    return;
-
-
-                    
-                    return;
-
+                    y->right=x; // attach preserved right subtree
+                    break;
+                }
+                else if(root->right->right){
+                    TreeNode* x=root->right->right;
+                    root->right=x;
+                    break;
                 }
                 else{
                     root->right=NULL;
+                    break;
                 }
-
-            }
-
-        }
-        if(root->val>key){
-            dothat(root->left,key);
-        }
-        if(root->val<key){
-            dothat(root->right,key);
-        }
-        if(root->val==key){
-            if(root->right){
-                TreeNode* x=root->right;
-                TreeNode *temp=x;
-                while(temp->left!=NULL){
-                    temp=temp->left;
-                }
-                temp->left=root->left;
-                root=x;
-                return;
-            }
-            else if(root->left){
-                TreeNode* x=root->left;
-                TreeNode *temp=x;
-                while(temp->right!=NULL){
-                    temp=temp->right;
-                }
-                temp->right=root->right;
-                root=x;
-                return;
-
             }
             else{
-                root=NULL;
-                return;
+                if(root->val>key){
+                    root=root->left;
+                }
+                else{
+                    root=root->right;
+                }
             }
         }
-    }
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        dothat(root,key);
-        return root;
-        
+
+        return temp;  
     }
 };
