@@ -10,27 +10,23 @@
 
 class Solution {
 public:
-    void findans(TreeNode* root,TreeNode* &ans,int ll,int ul){
-        if(root==NULL){
-            return;
-        }
-        if(root->val>=ll && root->val<=ul){
+    TreeNode* ans;
+    void solve(TreeNode* root, TreeNode* p, TreeNode* q){
+        if((p->val>=root->val && q->val<=root->val) || (p->val<=root->val && q->val>=root->val)){
             ans=root;
-            return;
+            return ;
         }
-        if(root->val<ll){
-            findans(root->right,ans,ll,ul);
+        if((p->val<root->val && q->val<root->val)){
+            solve(root->left,p,q);
         }
-        else{
-            findans(root->left,ans,ll,ul);
+        if(p->val>root->val && q->val>root->val){
+            solve(root->right,p,q);
+        }
 
-        }
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        int ll=min(p->val,q->val);
-        int ul=max(p->val,q->val);
-        TreeNode* ans=NULL;
-        findans(root,ans,ll,ul);
+        solve(root,p,q);
+        
         return ans;
         
     }
