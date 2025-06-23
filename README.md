@@ -370,6 +370,7 @@
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +558,7 @@
 | [2384-root-equals-sum-of-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Design
 |  |
 | ------- |
@@ -924,6 +926,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -1054,6 +1057,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Trie
 |  |
 | ------- |
