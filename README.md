@@ -226,6 +226,7 @@
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -395,6 +396,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
@@ -943,6 +945,7 @@
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -967,6 +970,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
