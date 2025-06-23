@@ -11,40 +11,36 @@
  */
 class Solution {
 public:
-    TreeNode*prev;
-    TreeNode* first;
-    TreeNode * middle;
-    TreeNode* second;
-    bool flag;
+    TreeNode* prev=new TreeNode(INT_MIN);
+    TreeNode* first=NULL;
+    TreeNode* middle=NULL;
+    TreeNode* last=NULL;
     void solve(TreeNode* root){
         if(root==NULL){
             return;
         }
         solve(root->left);
-        if(root->val<prev->val && flag==false){
+        if(root->val<prev->val && middle==NULL){
             first=prev;
             middle=root;
-            flag=true;
+
         }
-        else if(root->val<prev->val && flag==true){
-            flag=false;
-            second=root;
+        else if(root->val<prev->val){
+            last=root;
         }
         prev=root;
         solve(root->right);
-        
     }
     void recoverTree(TreeNode* root) {
-        flag=false;
-        prev=new TreeNode(INT_MIN);
         solve(root);
-        if(flag==false){
-            swap(first->val,second->val);
-            return;
+        if(first && last){
+            swap(first->val,last->val);
         }
-        swap(first->val,middle->val);
-        return ;
-        
+        else if(first && middle){
+            swap(first->val,middle->val);
+
+        }
+
         
     }
 };
