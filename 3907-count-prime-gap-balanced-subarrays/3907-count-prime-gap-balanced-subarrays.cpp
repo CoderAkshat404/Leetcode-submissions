@@ -50,10 +50,7 @@ public:
             } else {
                 if (v[nums[l]]) {
                     ms.erase(ms.find(nums[l]));
-                    if (!q.empty() && q.front() == l) {
-                        q.pop_front();
-                    }
-
+                    q.pop_front();
                     if (ms.size() < 2) {
                         rmin = -1;
                     } else {
