@@ -172,6 +172,7 @@
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Array
 |  |
 | ------- |
@@ -383,6 +384,7 @@
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
