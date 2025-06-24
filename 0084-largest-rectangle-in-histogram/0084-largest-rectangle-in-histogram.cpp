@@ -1,47 +1,52 @@
 class Solution {
 public:
-    vector<int> prevsmaller(vector<int> input){
-        stack<int> st;
-        st.push(-1);
-        vector<int> ans(input.size());
-        for(int i=0;i<input.size();i++){
-            while(st.top()!=-1 && input[st.top()]>=input[i]){
-                st.pop();
+    int largestRectangleArea(vector<int>& arr){
+        int n=arr.size();
+        vector<int> nse(n);
+        vector<int> pse(n);
+        stack<pair<int,int>> s;
+        for(int i=0;i<n;i++){
+            if(s.empty()){
+                s.push({arr[i],i});
+                pse[i]=-1;
             }
-            ans[i]=st.top();
-            st.push(i);
-        }
-    return ans;
-    }
-    vector<int> nextsmaller(vector<int> input){
-        stack<int> st;
-        st.push(-1);
-        vector<int> ans(input.size());
-        for(int i=input.size()-1;i>=0;i--){
-            while(st.top()!=-1 && input[st.top()]>=input[i]){
-                st.pop();
+            else{
+                while(!s.empty() && s.top().first>=arr[i]){
+                    s.pop();
+                }
+                if(!s.empty()){
+                    pse[i]=s.top().second;
+                }
+                else{
+                    pse[i]=-1;
+                }
+                s.push({arr[i],i});
             }
-            ans[i]=st.top();
-            st.push(i);
-
         }
-    return ans;
-
-    }
-    int largestRectangleArea(vector<int>& heights) {
-        vector<int> prev=prevsmaller(heights);
-        vector<int> next=nextsmaller(heights);
+        stack<pair<int,int>> a;
+        for(int i=n-1;i>=0;i--){
+            if(a.empty()){
+                a.push({arr[i],i});
+                nse[i]=n;
+            }
+            else{
+                while(!a.empty() && a.top().first>=arr[i]){
+                    a.pop();
+                }
+                if(!a.empty()){
+                    nse[i]=a.top().second;
+                }
+                else{
+                    nse[i]=n;
+                }
+                a.push({arr[i],i});
+            }
+        }
         int maxi=INT_MIN;
-        for(int i=0;i<heights.size();i++){
-            int l=heights[i];
-            if(next[i]==-1){
-                next[i]=heights.size();
-            }
-            int w=next[i]-prev[i]-1;
-            int area=l*w;
-            maxi=max(area,maxi);
-            
+        for(int i=0;i<n;i++){
+            maxi=max(maxi,((nse[i]-pse[i]-1)*arr[i]));
         }
-    return maxi;    
+        return maxi;
+        
     }
 };
