@@ -60,6 +60,7 @@
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -134,6 +135,7 @@
 | [0044-wildcard-matching](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
@@ -953,6 +955,7 @@
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
@@ -980,6 +983,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
