@@ -192,6 +192,7 @@
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -807,6 +808,7 @@
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
@@ -894,6 +896,7 @@
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0120-triangle) |
@@ -951,6 +954,7 @@
 | [0032-longest-valid-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -983,6 +987,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
