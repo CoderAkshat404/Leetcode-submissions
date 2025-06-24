@@ -26,6 +26,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
@@ -312,6 +313,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
