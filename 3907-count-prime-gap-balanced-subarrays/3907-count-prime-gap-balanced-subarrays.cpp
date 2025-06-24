@@ -40,7 +40,7 @@ public:
 
             if (ms.size() >= 2 && rmin != -1) {
                 
-                if (q.size() >= 2) rmin = q[1];
+                rmin = q[1];
                 ans += (rmax - rmin + 1);
             }
 
@@ -57,8 +57,7 @@ public:
                     if (ms.size() < 2) {
                         rmin = -1;
                     } else {
-                        if (q.size() >= 2) rmin = q[1];
-                        else rmin = -1;
+                       rmin = q[1];
                     }
                 }
                 l++;
