@@ -16,7 +16,7 @@ public:
         int n = s.length();
 
         while (l < n) {
-            while (r + 1 < n && !allmatched(m, need)) {
+            while (r  < n && !allmatched(m, need)) {
                 r++;
                 m[s[r]]++;
             }
