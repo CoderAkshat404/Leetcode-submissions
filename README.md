@@ -318,6 +318,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -453,6 +454,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -678,6 +680,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -787,6 +790,7 @@
 | [1946-minimum-absolute-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1946-minimum-absolute-sum-difference) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
