@@ -1,23 +1,32 @@
 class Solution {
 public:
-    int n;
-    int dp[1001];
-    int f(string &s, int k, int i) {
-        if(i == 0)
-            return 0;
-        if(dp[i] != -1)
-            return dp[i];
-        // take
-        int x = 0;
-        if((s[i-1]-'0')*pow(2, n-i) <= k)
-            x = 1 + f(s, k-(s[i-1]-'0')*pow(2, n-i), i-1);
-        // not take
-        int y = f(s, k, i-1);
-        return dp[i] = max(x, y);
-    }
-    int longestSubsequence(string &s, int k) {
-        n = s.length();
-        memset(dp, -1, sizeof(dp));
-        return f(s, k, n);
+    int longestSubsequence(string s, int k) {
+        // unordered_map<int,bool> m;
+        // for(int i=0;i<64;i++){
+        //     int b=(k>>i)&1;
+        //     if(b==1){
+        //         m[i]=1;
+        //     }
+        // }
+        // int cnt=0;
+        int x=0;
+        int ans=0;
+        int cnt=0;
+        for(int i=s.length()-1;i>=0;i--){
+            if(s[i]=='1'){
+                if(x+pow(2,s.length()-1-i)<=k){
+                    ans++;
+                    x+=pow(2,s.length()-1-i);
+                }
+
+            }
+            else{
+                ans++;
+            }
+            
+        }
+        return ans;
+
+        
     }
 };
