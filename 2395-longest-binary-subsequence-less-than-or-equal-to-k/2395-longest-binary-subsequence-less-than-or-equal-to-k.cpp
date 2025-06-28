@@ -11,7 +11,6 @@ public:
         // int cnt=0;
         int x=0;
         int ans=0;
-        int cnt=0;
         for(int i=s.length()-1;i>=0;i--){
             if(s[i]=='1'){
                 if(x+pow(2,s.length()-1-i)<=k){
