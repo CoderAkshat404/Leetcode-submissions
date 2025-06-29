@@ -54,6 +54,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1201,6 +1202,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
@@ -1229,11 +1231,13 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
