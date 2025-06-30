@@ -247,6 +247,7 @@
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -433,6 +434,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0768-partition-labels) |
@@ -785,6 +787,7 @@
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -920,6 +923,7 @@
 | [0229-majority-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1166,6 +1170,7 @@
 | [0239-sliding-window-maximum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
