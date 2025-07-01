@@ -130,6 +130,7 @@
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3684-substring-matching-pattern) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
