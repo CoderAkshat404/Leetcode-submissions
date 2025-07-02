@@ -1,31 +1,17 @@
 class Solution {
 public:
-    bool findans(vector<int> &nums,int i,vector<int> &dp){
-        if(i>=nums.size()){
-            return false;
-        }
-        if(i==nums.size()-1){
-            return true;
-        }
-        if(nums[i]==0){
-            return false;
-        }
-        if(dp[i]!=-1){
-            return dp[i];
-        }
-        int ans=false;
-        for(int j=1;j<=nums[i];j++){
-            ans=ans | findans(nums,i+j,dp);
-            if(ans==true){
-                break;
+    bool canJump(vector<int>& nums) {
+        int n=nums.size();
+        int maxi=0;
+        for(int i=0;i<n;i++){
+            if(i>maxi){
+                return false;
+            }
+            maxi=max(maxi,nums[i]+i);
+            if(maxi>=n-1){
+                return true;
             }
         }
-        return dp[i]=ans;
-    }
-    bool canJump(vector<int>& nums) {
-        vector<int> dp(nums.size(),-1);
-        bool ans=findans(nums,0,dp);
-        return ans;
-        
+        return true;
     }
 };
