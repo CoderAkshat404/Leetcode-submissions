@@ -563,6 +563,7 @@
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -871,6 +872,7 @@
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Matrix
@@ -1094,6 +1096,7 @@
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1122,6 +1125,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
