@@ -309,6 +309,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -472,6 +473,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -956,6 +958,7 @@
 | [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
