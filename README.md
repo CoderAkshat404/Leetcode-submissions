@@ -638,6 +638,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
@@ -767,6 +768,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -1065,6 +1067,7 @@
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1094,6 +1097,7 @@
 | [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
