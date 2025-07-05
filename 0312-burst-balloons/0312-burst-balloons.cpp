@@ -1,20 +1,23 @@
 class Solution {
 public:
-    int findans(int i,int j,vector<int>& nums,vector<vector<int>>&dp){
+    int dp[302][302];
+    int solve(int i,int j,vector<int>& nums){
         if(i>j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        int ans=-1e9;
-        for(int indx=i;indx<=j;indx++){
-            ans=max(ans,nums[i-1]*nums[j+1]*nums[indx]+findans(i,indx-1,nums,dp)+findans(indx+1,j,nums,dp));
+        if(dp[i][j]!=-1){
+            return dp[i][j];
+        }
+        int ans=0;
+        for(int k=i;k<=j;k++){
+            ans=max(ans,nums[k]*nums[i-1]*nums[j+1]+solve(i,k-1,nums)+solve(k+1,j,nums));
         }
         return dp[i][j]=ans;
     }
     int maxCoins(vector<int>& nums) {
-        nums.insert(nums.begin(),1);
         nums.push_back(1);
-        vector<vector<int>> dp(nums.size(),vector<int>(nums.size(),-1));
-        int ans=findans(1,nums.size()-2,nums,dp);
-        return ans;
+        nums.insert(nums.begin(),1);
+        int n=nums.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(1,n-2,nums);
         
     }
 };
