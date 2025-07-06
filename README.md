@@ -331,6 +331,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [1946-minimum-absolute-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1946-minimum-absolute-sum-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -478,6 +479,7 @@
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -641,6 +643,7 @@
 | [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
