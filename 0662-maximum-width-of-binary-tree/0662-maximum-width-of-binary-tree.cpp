@@ -9,33 +9,35 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+#define ll long long
 class Solution {
 public:
-int widthOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
-
-        long long maxi = 0;
-        queue<pair<TreeNode*, long long>> q;
-        q.push({root, 0}); // Start index from 0
-
-        while (!q.empty()) {
-            int sz = q.size();
-            long long left = q.front().second;  // Get the first element's index
-            long long right = q.back().second; // Get the last element's index
-
-            maxi = max(maxi, right - left + 1);  // Calculate width at this level
-
-            for (int i = 0; i < sz; i++) {
-                auto [node, idx] = q.front();
+    int widthOfBinaryTree(TreeNode* root) {
+        queue<pair<TreeNode*,ll>> q;
+        q.push({root,0});
+        ll maxi=INT_MIN;
+        while(!q.empty()){
+            TreeNode* node=q.front().first;
+            ll mini=q.front().second;
+            ll sz=q.size();
+            ll left;
+            ll right;
+            for(int i=0;i<sz;i++){
+                if(i==0) left=q.front().second;
+                if(i==sz-1) right=q.front().second;;
+                TreeNode* temp=q.front().first;
+                int level=q.front().second-mini;
                 q.pop();
+                if(temp->left){
+                    q.push({temp->left,(ll)((level*2LL)+1LL)});
+                }
+                if(temp->right){
+                    q.push({temp->right,(ll)((level*2LL)+2LL)});
 
-                long long newIdx = idx - left; // Normalize index to avoid overflow
-
-                if (node->left) q.push({node->left, 2 * newIdx});
-                if (node->right) q.push({node->right, 2 * newIdx + 1});
+                }
             }
+            maxi=max(maxi,right-left+1);
         }
-        return maxi;
+      return maxi;  
     }
-
 };
