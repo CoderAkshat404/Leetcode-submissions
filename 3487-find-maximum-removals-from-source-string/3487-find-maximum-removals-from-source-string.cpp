@@ -20,7 +20,7 @@ public:
         if(s.find(i)!=s.end()){
             ans=max(ans,1+solve(i+1,j,source,pattern));
         }
-        if(source[i]==pattern[j])
+        if(j<pattern.length() && source[i]==pattern[j])
             ans=max(ans,solve(i+1,j+1,source,pattern));
         ans=max(ans,solve(i+1,j,source,pattern));  
         // cout<<ans<<endl;
