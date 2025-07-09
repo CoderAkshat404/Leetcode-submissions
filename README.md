@@ -188,6 +188,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -413,6 +414,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1258,6 +1260,7 @@
 | [3483-alternating-groups-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Union Find
 |  |
