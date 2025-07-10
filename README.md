@@ -54,6 +54,7 @@
 | [0058-length-of-last-word](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0127-word-ladder) |
@@ -218,6 +219,7 @@
 | [0073-set-matrix-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -926,6 +928,7 @@
 | [0063-unique-paths-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
@@ -1120,6 +1123,7 @@
 | [0040-combination-sum-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
@@ -1192,6 +1196,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0099-recover-binary-search-tree) |
