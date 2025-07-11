@@ -28,10 +28,6 @@ public:
     }
 
     vector<vector<string>> solveNQueens(int n) {
-        row.clear();
-        upleftdiag.clear();
-        loleftdiag.clear();
-        ans.clear();
 
         vector<string> board(n, string(n, '.'));
         rec(0, board, n);
