@@ -129,6 +129,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
