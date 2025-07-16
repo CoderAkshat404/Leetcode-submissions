@@ -415,6 +415,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1085,6 +1086,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Memoization
