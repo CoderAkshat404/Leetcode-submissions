@@ -1,29 +1,33 @@
 class Solution {
 public:
+    bool check(int i,int j,vector<vector<int>>& grid){
+        return (i>=0) && (i<grid.size()) && (j>=0) && (j<grid[0].size()) && (grid[i][j]==0);
+    }
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        if(grid[0][0]!=0){
-            return -1;
-        }
-        queue<pair<int,pair<int,int>>> q;
+        
         int n=grid.size();
         int m=grid[0].size();
+        if(grid[0][0] != 0 || grid[n-1][m-1] != 0)
+            return -1;
+        queue<pair<int,int>> q;
         vector<vector<int>> dist(n,vector<int>(m,1e9));
-        dist[0][0]=0;
-        q.push({0,{0,0}});
+        dist[0][0]=1;
+        q.push({0,0});
         while(!q.empty()){
-            int r=q.front().second.first;
-            int c=q.front().second.second;
-            int dista=q.front().first;
+            int i=q.front().first;
+            int j=q.front().second;
             q.pop();
-            for(int i=-1;i<=1;i++){
-                for(int j=-1;j<=1;j++){
-                    int nr=r+i;
-                    int nc=c+j;
-                    if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc]==0 ){
-                        if(dist[nr][nc]>1+dista){
-                            dist[nr][nc]=1+dista;
-                            q.push({1+dista,{nr,nc}});
+            for(int p=-1;p<=1;p++){
+                for(int k=-1;k<=1;k++){
+                    if(p==0 && k==0) continue;
+                    int ni=i+p;
+                    int nj=j+k;
+                    if(check(ni,nj,grid)){
+                        if(dist[ni][nj]>dist[i][j]+1){
+                            dist[ni][nj]=dist[i][j]+1;
+                            q.push({ni,nj});
                         }
+
                     }
                 }
             }
@@ -31,8 +35,7 @@ public:
         if(dist[n-1][m-1]==1e9){
             return -1;
         }
-        return dist[n-1][m-1]+1;
-
+        return dist[n-1][m-1];
         
     }
 };
