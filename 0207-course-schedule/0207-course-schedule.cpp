@@ -14,10 +14,11 @@ public:
                 q.push(i);
             }
         }
+        int x=0;
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            topo.push_back(node);
+            x++;
             for(auto i:adj[node]){
                 indegree[i]--;
                 if(indegree[i]==0){
@@ -25,7 +26,7 @@ public:
                 }
             }
         }
-        return topo.size()==n;
+        return x==n;
 
         
     }
