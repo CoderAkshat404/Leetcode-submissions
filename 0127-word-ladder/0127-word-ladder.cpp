@@ -6,6 +6,7 @@ public:
         queue<pair<string,int>> q;
         unordered_map<string,bool> m;
         q.push({beginword,1});
+        st.erase(beginword);
         while(!q.empty()){
 
             string word=q.front().first;
@@ -18,8 +19,8 @@ public:
                 char c=word[i];
                 for(char ch='a';ch<='z';ch++){
                     word[i]=ch;
-                    if(st.find(word)!=st.end() && m.find(word)==m.end()){
-                        m[word]=true;
+                    if(st.find(word)!=st.end()){
+                        st.erase(word);
                         q.push({word,dis+1});
         
                     }    
