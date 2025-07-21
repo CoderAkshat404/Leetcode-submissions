@@ -16,7 +16,7 @@ public:
                 }
             }
             else if(vis[i]==1 && i!=parent){
-                lo[node]=min(lo[i],lo[node]);
+                lo[node]=min(ti[i],lo[node]);
             }
 
         }
