@@ -1,28 +1,21 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
-        int n=nums.size();
-        int ans=0;
-        int i=0;
-        while(i<n-1){
-            int maxi=0;
-            int maxj=0;
-            for(int j=i+1;j<=i+nums[i];j++){
-                if(j<n-1){
-                    if(j+nums[j]>maxi){
-                        maxi=j+nums[j];
-                        maxj=j;
-                    }
-                }
-                else{
-                    return ans+1;
-                }
-                
-            }
-            i=maxj;
-            ans++;
+    
+   long long  int solve(int i,vector<int>& nums,vector<int>&dp){
+        if(i>=nums.size()-1) return 0;
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        return ans;
+       long long  int ans=INT_MAX;
+        for(int j=i+1;j<=i+nums[i] && j<nums.size();j++){
+            if(nums[j]!=0 || j==nums.size()-1){
+            ans=min(ans,1+solve(j,nums,dp));}
+        }
+        return  dp[i]= ans;
+    }
+    int jump(vector<int>& nums) {
+        vector<int> dp(nums.size(),-1);
+        return solve(0,nums,dp);
         
     }
 };
