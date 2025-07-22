@@ -14,7 +14,6 @@ public:
         if(online[0]==false || online[n-1]==false){
             return -1;
         }
-        // dist,node,mini
     priority_queue<vector<int>> pq;
         pq.push({(int)1e9,0,0});
         while(!pq.empty()){
