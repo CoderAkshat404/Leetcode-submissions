@@ -1,15 +1,17 @@
 class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
-        int n = nums.size();
+        int n=nums.size();
         vector<int> suff(n);
-        int currOR = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            currOR |= nums[i];
-            suff[i] = currOR;
+        int currOR=0;
+        for(int i=n-1;i>=0;i--){
+            currOR=(currOR | nums[i] );
+            suff[i]=currOR;     
         }
-
-        vector<vector<int>> pre(n, vector<int>(32, 0));
+        // for(auto i:suff){
+        //     cout<<i<<" ";
+        // }
+        vector<vector<int>> pre(n,vector<int>(32,0));
         for (int i = 0; i < 32; i++) {
             if ((nums[0] >> i) & 1) {
                 pre[0][i] = 1;
@@ -25,37 +27,34 @@ public:
             }
         }
 
+        int l=0;
+        int r=-1;
         vector<int> ans;
-        int l = 0, r = -1;
-        currOR = 0;
-
-        while (l < n) {
-            while (r + 1 < n && ((currOR | nums[r + 1]) < suff[l])) {
+        int curr=0;
+        while(l<n){
+            while(r+1<n &&  ((curr |nums[r+1])<suff[l])){
                 r++;
-                currOR |= nums[r];
-                if (currOR == suff[l]) {
-                    break;
+                curr= curr | nums[r];
+            }
+            ans.push_back(r-l+2);
+            if(r<l){
+                l++;
+                r=l-1;
+            }
+            else{
+            curr=0;
+            for(int i=0;i<32;i++){
+                int x=pre[r][i]-pre[l][i];
+                if(x>0){
+                    curr+=(1<<i);
                 }
             }
-
-            ans.push_back(r - l + 2);
-
-            if (r < l) {
-                l++;
-                r = l - 1;
-                currOR = 0;
-            } else {
-                currOR = 0;
-                for (int i = 0; i < 32; i++) {
-                    int bit_count = pre[r][i] - pre[l][i];
-                    if (bit_count > 0) {
-                        currOR |= (1 << i);
-                    }
-                }
-                l++;
-            }
+            
+            l++;}
         }
-
         return ans;
+
+
+        
     }
 };
