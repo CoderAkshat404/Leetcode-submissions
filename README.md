@@ -298,6 +298,7 @@
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
@@ -1091,6 +1092,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -1212,6 +1214,7 @@
 | [0260-single-number-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
