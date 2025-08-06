@@ -53,7 +53,7 @@ public:
                     lo=mid+1;
                 }
             }
-            if(def!=-1 && baskets[def]>=fruits[i]){
+            if(def!=-1){
                 update(1,0,n-1,def,INT_MIN);
             }
             else{
