@@ -502,6 +502,7 @@
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
@@ -592,6 +593,7 @@
 | [0670-maximum-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -890,6 +892,7 @@
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -1035,6 +1038,7 @@
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1364-tuple-with-same-product) |
@@ -1376,6 +1380,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
