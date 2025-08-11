@@ -391,6 +391,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
+| [2529-range-product-queries-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1013,6 +1014,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2358-number-of-ways-to-split-array) |
+| [2529-range-product-queries-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
@@ -1244,6 +1246,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2792-neighboring-bitwise-xor) |
