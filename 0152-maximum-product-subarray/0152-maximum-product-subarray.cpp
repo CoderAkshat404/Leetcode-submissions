@@ -1,15 +1,38 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int n=nums.size();
-        int max_prod=INT_MIN;
-        for(int i=0;i<n;i++){
-            int prod=1;
-            for(int j=i;j<n;j++){
-                prod=prod*nums[j];
-                max_prod=max(max_prod,prod);
+        set<int> pos;
+        set<int> neg;
+        pos.insert(1);
+        neg.insert(1);
+        int pro=1;
+        int maxi=INT_MIN;
+        for(int i=0;i<nums.size();i++){
+            // cout<<pos.size()<<" "<<neg.size()<<endl;
+            pro=pro*nums[i];
+            if(pro>=0){
+                maxi=max(maxi,(pro/(*pos.begin())));
+            }
+            else{
+                maxi=max(maxi,(pro/(*neg.rbegin())));
+            }
+            maxi=max(maxi,pro);
+            if(pro>0){
+                pos.insert(pro);
+            }
+            if(pro<0){
+                neg.insert(pro);
+                neg.erase(1);
+            }
+            if(pro==0){
+                pro=1;
+                pos.clear();
+                neg.clear();
+                pos.insert(1);
+                neg.insert(1);
             }
         }
-        return max_prod;
+        return maxi;
+        
     }
 };
