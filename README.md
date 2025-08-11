@@ -373,6 +373,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -608,6 +609,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1130,6 +1132,7 @@
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
