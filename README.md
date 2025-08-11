@@ -615,6 +615,7 @@
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1403,6 +1404,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
