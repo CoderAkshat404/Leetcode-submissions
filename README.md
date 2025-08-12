@@ -1145,6 +1145,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
