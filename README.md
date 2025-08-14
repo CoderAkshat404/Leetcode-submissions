@@ -96,6 +96,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
@@ -962,6 +963,7 @@
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
@@ -1256,6 +1258,7 @@
 | [0371-sum-of-two-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1610-xor-operation-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
