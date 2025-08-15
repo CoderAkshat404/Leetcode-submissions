@@ -13,7 +13,7 @@ public:
     }
     int numSteps(string s) {
         int ans=0;
-        while(check(s)==false){
+        while(s!="1"){
             if(s.back()=='0'){
                 s.pop_back();
                 ans++;
