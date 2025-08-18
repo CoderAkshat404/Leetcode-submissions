@@ -433,6 +433,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -642,6 +643,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
+| [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -863,6 +865,7 @@
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
