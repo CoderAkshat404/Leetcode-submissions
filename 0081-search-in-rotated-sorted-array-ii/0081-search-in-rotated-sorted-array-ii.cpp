@@ -5,7 +5,7 @@ public:
         int lo=0;
         int hi=n-1;
         while(lo<=hi){
-            cout<<lo<<" "<<hi<<endl;
+          
             int mid=lo+(hi-lo)/2;
             if(nums[mid]==target){
                 return true;
