@@ -365,6 +365,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1163,6 +1164,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
@@ -1227,6 +1229,7 @@
 | [0216-combination-sum-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
+| [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
