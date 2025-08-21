@@ -357,6 +357,7 @@
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -1027,6 +1028,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
+| [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1165,6 +1167,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1212,6 +1215,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1248,6 +1252,7 @@
 | [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
