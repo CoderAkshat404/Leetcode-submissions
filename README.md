@@ -38,6 +38,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3195-separate-black-and-white-balls) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
 ## String
@@ -194,6 +195,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3195-separate-black-and-white-balls) |
@@ -431,6 +433,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -569,6 +572,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -790,6 +794,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
@@ -1100,6 +1105,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
