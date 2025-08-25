@@ -286,6 +286,7 @@
 | [0485-max-consecutive-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
@@ -991,6 +992,7 @@
 | [0054-spiral-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1023,6 +1025,7 @@
 | [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
