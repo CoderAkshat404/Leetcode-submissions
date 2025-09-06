@@ -178,6 +178,7 @@
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -640,6 +641,7 @@
 | [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
