@@ -353,6 +353,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -643,6 +644,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
