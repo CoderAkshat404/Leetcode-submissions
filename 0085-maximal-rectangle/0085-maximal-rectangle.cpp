@@ -1,6 +1,6 @@
 class Solution {
-public:
-int largestRectangleArea(vector<int>& arr){
+  public:
+     int largestRectangleArea(vector<int>& arr){
         int n=arr.size();
         vector<int> nse(n);
         vector<int> pse(n);
@@ -49,23 +49,27 @@ int largestRectangleArea(vector<int>& arr){
         return maxi;
         
     }
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
-        vector<int> v(m,0);
-        int maxi=INT_MIN;
+    int maximalRectangle(vector<vector<char>> &mat) {
+        int ans=INT_MIN;
+        int n=mat.size();
+        int m=mat[0].size();
+        vector<int> prev(m,0);
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(matrix[i][j]=='1'){
-                    v[j]+=1;
+            vector<int> v(m,0);
+            for(int j=0;j<mat[i].size();j++){
+                if(mat[i][j]=='1'){
+                    v[j]=1+prev[j];
                 }
                 else{
                     v[j]=0;
                 }
+                
             }
-            maxi=max(maxi,largestRectangleArea(v));
+            ans=max(ans,largestRectangleArea(v));
+            prev=v;
         }
-        return maxi;
+        return ans;
+        // code here
         
     }
 };
