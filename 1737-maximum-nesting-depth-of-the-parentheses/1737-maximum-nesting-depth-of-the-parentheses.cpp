@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int maxi=INT_MIN;
+        int maxi=0;
         int count=0;
         for(int i=0;i<s.length();i++){
             if(s[i]=='('){
@@ -13,7 +13,7 @@ public:
             }
 
         }
-        maxi=max(maxi,count);
+      
         return maxi;
         
     }
