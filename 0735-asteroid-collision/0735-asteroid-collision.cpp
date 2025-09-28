@@ -8,10 +8,10 @@ public:
                 while(!s.empty() && s.top()<abs(v[i]) && s.top()>0){
                     s.pop();
                 }
-                if(s.size()==1 && s.top()==abs(v[i])){
-                    s.pop();
-                    continue;
-                } 
+                // if(s.size()==1 && s.top()==abs(v[i])){
+                //     s.pop();
+                //     continue;
+                // } 
                 if(!s.empty() && s.top()==abs(v[i])){
                     s.pop();
                     continue;
