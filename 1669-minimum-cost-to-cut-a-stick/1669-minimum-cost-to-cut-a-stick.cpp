@@ -1,38 +1,27 @@
 class Solution {
 public:
-    int solve(int l,int r,vector<int>& cuts){
-        if(l==r-1){
+    int findans(int i,int j,vector<int> &cuts,vector<vector<int>>&dp){
+        if(i>j){
             return 0;
         }
+        if(dp[i][j]!=-1){
+            return dp[i][j];
+        }
         int ans=1e9;
-        for(int i=l+1;i<r;i++){
-            ans=min(ans,cuts[r]-cuts[l]+solve(l,i,cuts)+solve(i,r,cuts));
+        for(int indx=i;indx<=j;indx++){
+            ans=min(ans,findans(i,indx-1,cuts,dp)+findans(indx+1,j,cuts,dp)+cuts[j+1]-cuts[i-1]);
         }
-        return ans;
+        return dp[i][j]=ans;
     }
-    int minCost(int x, vector<int>& cuts) {
-        cuts.push_back(x);
-        reverse(cuts.begin(),cuts.end());
-
-        cuts.push_back(0);
-        reverse(cuts.begin(),cuts.end());
+    int minCost(int n, vector<int>& cuts) {
+        int m=cuts.size();
+        cuts.push_back(n);
+        cuts.insert(cuts.begin(),0);
         sort(cuts.begin(),cuts.end());
-        int n=cuts.size();
-        vector<vector<int>> dp(n,vector<int>(n,0));
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<n;j++){
-                if(j==i+1){
-                    continue;
-                }
-                int ans=1e9;
-                for(int k=i+1;k<j;k++){
-                    ans=min(ans,cuts[j]-cuts[i]+dp[i][k]+dp[k][j]);
-                }
-                dp[i][j] = ans;
-            }
-        }
-        return dp[0][n-1];
+        vector<vector<int>> dp(m+1,vector<int>(m+1,-1));
 
+        int ans=findans(1,cuts.size()-2,cuts,dp);
+        return ans;
         
     }
 };
