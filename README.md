@@ -509,6 +509,7 @@
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -650,6 +651,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1397,6 +1399,7 @@
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0355-design-twitter) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
