@@ -6,8 +6,8 @@ public:
 
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
         vector<vector<vector<int>>> vis(m, vector<vector<int>>(n, vector<int>(4, 0))); // 3D vis
-        vector<vector<int>> cellVisited(m, vector<int>(n, 0)); // To mark overall visited cells later
-        queue<array<int,3>> q; // {x, y, dir}
+        vector<vector<int>> cellVisited(m, vector<int>(n, 0)); 
+        queue<array<int,3>> q;
         set<pair<int,int>> s;
 
         for (auto &w : walls)
@@ -26,7 +26,7 @@ public:
             cellVisited[x][y] = 1;
 
             if (dir == -1) {
-                // Spread in all directions from guard
+              
                 for (int k = 0; k < 4; k++) {
                     int nx = x + dx[k];
                     int ny = y + dy[k];
