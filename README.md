@@ -516,6 +516,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -658,6 +659,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -928,6 +930,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1555,6 +1558,7 @@
 | [3483-alternating-groups-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
