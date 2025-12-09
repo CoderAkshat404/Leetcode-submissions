@@ -169,6 +169,7 @@
 | [3684-substring-matching-pattern](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3684-substring-matching-pattern) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -671,6 +672,7 @@
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3837-grid-teleportation-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
