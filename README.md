@@ -535,6 +535,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -671,6 +672,7 @@
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
