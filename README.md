@@ -539,6 +539,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
@@ -673,6 +674,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3837-grid-teleportation-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -765,6 +767,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3830-find-closest-person) |
