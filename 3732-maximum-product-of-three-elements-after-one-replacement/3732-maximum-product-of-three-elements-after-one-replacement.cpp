@@ -47,7 +47,7 @@ public:
             bn=neg[1];
             cn=neg[2];
         }
-        cout<<an<<" "<<bn<<" "<<cn<<endl;
+        
         int ans=-1e9;
         int ans1=(a*b*(long long)1e5);
         ans=max(ans,ans1);
