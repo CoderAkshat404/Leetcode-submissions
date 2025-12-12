@@ -511,6 +511,7 @@
 | [3429-special-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -770,6 +771,7 @@
 | [3336-water-bottles-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3567-convert-date-to-binary) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1113,6 +1115,7 @@
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
 | [3531-count-covered-buildings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1154,6 +1157,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
