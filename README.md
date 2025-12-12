@@ -459,6 +459,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1152,6 +1153,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1198,6 +1200,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
