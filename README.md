@@ -425,6 +425,7 @@
 | [1946-minimum-absolute-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1946-minimum-absolute-sum-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -745,6 +746,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1363,6 +1365,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
