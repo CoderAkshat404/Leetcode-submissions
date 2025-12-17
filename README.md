@@ -543,6 +543,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3665-twisted-mirror-path-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3676-count-bowl-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-count-bowl-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -1217,6 +1218,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3665-twisted-mirror-path-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3837-grid-teleportation-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3837-grid-teleportation-traversal) |
@@ -1383,6 +1385,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3665-twisted-mirror-path-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Memoization
