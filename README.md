@@ -540,6 +540,7 @@
 | [3632-button-with-longest-push-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3632-button-with-longest-push-time) |
 | [3639-zero-array-transformation-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1252,6 +1253,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
@@ -1620,6 +1622,7 @@
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Union Find
