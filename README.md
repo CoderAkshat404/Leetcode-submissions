@@ -96,6 +96,7 @@
 | [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
@@ -358,6 +359,7 @@
 | [0940-fruit-into-baskets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
