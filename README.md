@@ -228,6 +228,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -496,6 +497,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -1126,6 +1128,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
