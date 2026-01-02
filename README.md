@@ -371,6 +371,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -632,6 +633,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
