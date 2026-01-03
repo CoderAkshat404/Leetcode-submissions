@@ -1381,6 +1381,7 @@
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
