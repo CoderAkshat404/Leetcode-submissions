@@ -390,6 +390,7 @@
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -754,6 +755,7 @@
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1390-four-divisors) |
@@ -1077,6 +1079,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
