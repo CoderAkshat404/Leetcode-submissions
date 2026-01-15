@@ -21,7 +21,7 @@ bool check(int i,int j,vector<vector<char>>& grid,vector<vector<int>>& vis){
             }
         }
         for(int i=0;i<2;i++){
-            for(int j=0;j<n;j++){
+            for(int j=1;j<n-1;j++){
                 if(grid[j][c[i]]=='O'){
                     q.push({j,c[i]});
                     vis[j][c[i]]=1;
