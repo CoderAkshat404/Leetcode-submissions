@@ -1518,6 +1518,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0355-design-twitter) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -1527,6 +1528,7 @@
 | [0044-wildcard-matching](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
