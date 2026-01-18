@@ -434,6 +434,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [1917-maximum-average-pass-ratio](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1252,6 +1253,7 @@
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1282,6 +1284,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
