@@ -529,6 +529,7 @@
 | [3264-maximum-points-after-enemy-battles](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
@@ -1577,6 +1578,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
