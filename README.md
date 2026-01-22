@@ -199,6 +199,7 @@
 | [0768-partition-labels](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
+| [0860-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -359,6 +360,7 @@
 | [0840-magic-squares-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
