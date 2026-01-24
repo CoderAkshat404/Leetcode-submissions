@@ -33,6 +33,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -214,6 +215,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -435,6 +437,7 @@
 | [1813-maximum-erasure-value](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1147,6 +1150,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1946-minimum-absolute-sum-difference) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
