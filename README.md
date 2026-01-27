@@ -1017,6 +1017,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1890,6 +1891,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Iterator
 |  |
 | ------- |
@@ -1920,4 +1922,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
