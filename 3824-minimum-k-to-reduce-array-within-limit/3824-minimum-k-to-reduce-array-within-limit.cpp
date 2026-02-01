@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool check(int mid,vector<int>& nums){
+    bool check(long long mid,vector<int>& nums){
         int x=0;
-        long long limit=1LL*mid*mid;
+        long long limit=(mid*mid);
         for(auto i:nums){
             x+=(i+mid-1)/mid;
         }
