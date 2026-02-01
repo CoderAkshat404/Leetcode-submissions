@@ -39,10 +39,8 @@ public:
     void cancelRider(int riderId) {
         int cntr=m[riderId];
         pair<int,int> p={cntr,riderId};
-        auto it = rider.find(p);
-        if (it != rider.end()) {
-            rider.erase(it);
-        }
+        rider.erase(p);
+        
         
         
     }
