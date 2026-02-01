@@ -524,6 +524,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1180,6 +1181,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1754,6 +1756,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
