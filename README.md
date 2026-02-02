@@ -525,6 +525,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -709,6 +710,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1019,6 +1021,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1696,6 +1699,7 @@
 | [2478-longest-nice-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
