@@ -576,6 +576,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3632-button-with-longest-push-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3632-button-with-longest-push-time) |
+| [3637-trionic-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
