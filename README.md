@@ -587,6 +587,7 @@
 | [3676-count-bowl-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-count-bowl-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -734,6 +735,7 @@
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1103,6 +1105,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Geometry
@@ -1331,6 +1334,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
@@ -1844,6 +1848,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
