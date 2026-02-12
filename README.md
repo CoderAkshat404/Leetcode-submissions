@@ -175,6 +175,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3684-substring-matching-pattern) |
+| [3713-longest-balanced-substring-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -735,6 +736,7 @@
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3750-closest-equal-element-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3750-closest-equal-element-queries) |
@@ -1378,6 +1380,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-count-special-triplets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1768,6 +1771,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3713-longest-balanced-substring-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
