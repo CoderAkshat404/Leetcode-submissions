@@ -1434,6 +1434,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
