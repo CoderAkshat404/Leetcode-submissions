@@ -20,6 +20,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
@@ -343,6 +344,7 @@
 | [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
@@ -647,6 +649,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
@@ -949,6 +952,7 @@
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1144,6 +1148,7 @@
 | [0435-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
