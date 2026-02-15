@@ -64,6 +64,7 @@
 | [0044-wildcard-matching](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0079-word-search) |
@@ -761,6 +762,7 @@
 | [0050-powx-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
@@ -1222,6 +1224,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
@@ -1575,6 +1578,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0136-single-number) |
