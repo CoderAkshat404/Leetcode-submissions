@@ -1598,6 +1598,7 @@
 | [0371-sum-of-two-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1610-xor-operation-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1610-xor-operation-in-an-array) |
