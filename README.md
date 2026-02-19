@@ -26,6 +26,7 @@
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0958-sort-array-by-parity-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0958-sort-array-by-parity-ii) |
@@ -94,6 +95,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0768-partition-labels) |
