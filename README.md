@@ -119,6 +119,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -693,6 +694,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1615,6 +1617,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1610-xor-operation-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1817,12 +1820,14 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
