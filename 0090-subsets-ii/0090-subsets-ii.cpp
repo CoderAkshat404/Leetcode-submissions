@@ -1,32 +1,38 @@
 class Solution {
 public:
-    set<vector<int>> ans;
+    vector<vector<int>> ans;
     vector<int> v;
-    void rec(int i,vector<int>& candidates){
-        if(i>=candidates.size()){
-            ans.insert(v);
-            return  ;
+    map<int,int> m;
+    vector<pair<int,int>> freq;
+     void rec(int level,int n){
+        if(n==level){
+            ans.push_back(v);
+            return;
         }
-       
-            v.push_back(candidates[i]);
-            rec(i+1,candidates);
-            v.pop_back();
-        
-        while (i + 1 < candidates.size() && candidates[i] == candidates[i + 1]) {
-            i++;
-        }
-        rec(i+1,candidates);
+        rec(level+1,n);
+        if(freq[level].second>0){
+            v.push_back(freq[level].first);
+            freq[level].second=freq[level].second-1;
+            rec(level,n);
+            freq[level].second=freq[level].second+1;
+             v.pop_back();
 
+
+        }
+      
+       
+        
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        rec(0,nums);
-        vector<vector<int>> arr;
-        for(auto i:ans){
-            arr.push_back(i);
+        for(auto i:nums){
+            m[i]++;
         }
-        return arr;
+        for(auto i:m){
+            freq.push_back({i.first,i.second});
 
+        }
+        rec(0,freq.size());
+        return ans;
         
     }
 };
