@@ -126,6 +126,7 @@
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1260,6 +1261,7 @@
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1608,6 +1610,7 @@
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
