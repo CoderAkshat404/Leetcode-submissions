@@ -42,6 +42,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -155,6 +156,7 @@
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -241,6 +243,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2509-minimize-xor) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2600-maximum-tastiness-of-candy-basket) |
