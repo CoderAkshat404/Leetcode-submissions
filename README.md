@@ -116,6 +116,7 @@
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -427,6 +428,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
+| [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1280,6 +1282,7 @@
 | [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
