@@ -1,45 +1,68 @@
 class Solution {
 public:
-    void path(vector<vector<int>>&grid,int i,int j,int &res,vector<vector<int>>&choosen,int zeros){
-        if(grid[i][j]==2){
-            if(zeros==-1){
-                res++;
-            }
-            return;
-        }
-        int dir[4][2]={{1,0},{0,-1},{0,1},{-1,0}};
-        for(auto d:dir){
-            int ni=i+d[0];
-            int nj=j+d[1];
+    set<pair<int,int>> s;
+    int total = 0;
 
-            if(ni>=0 && nj>=0 && 
-            ni<grid.size() && nj<grid[0].size() && 
-            choosen[ni][nj]==0 && 
-            (grid[ni][nj]==0 || grid[ni][nj]==2)){
+    vector<int> dx = {1,0,-1,0};
+    vector<int> dy = {0,1,0,-1};
 
-                choosen[ni][nj]=1;
-                path(grid,ni,nj,res,choosen,zeros-1);
-                choosen[ni][nj]=0;
-            }
+    int solve(int i,int j,vector<vector<int>>& grid,int n,int m){
+
+        if(i>=n || j>=m || i<0 || j<0){
+            return 0;
         }
+
+        if(grid[i][j] == -1){
+            return 0;
+        }
+
+        if(s.find({i,j}) != s.end()){
+            return 0;
+        }
+
+        if(grid[i][j] == 2){
+            if(s.size() == total - 1){
+                return 1;
+            }
+            return 0;
+        }
+
+        s.insert({i,j});
+
+        int ans = 0;
+
+        for(int r=0;r<4;r++){
+            int nr = i + dx[r];
+            int nc = j + dy[r];
+            ans += solve(nr,nc,grid,n,m);
+        }
+
+        s.erase({i,j});
+
+        return ans;
     }
+
     int uniquePathsIII(vector<vector<int>>& grid) {
-        vector<vector<int>>choosen(grid.size(),vector<int>(grid[0].size(),0));
-        int res=0;
-        int st_i;
-        int st_j;
-        int count_0=0;
-        
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
-                if(grid[i][j]==1){
-                    st_i=i;
-                    st_j=j;
+
+        int n = grid.size();
+        int m = grid[0].size();
+
+        int sti = -1, stj = -1;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+
+                if(grid[i][j] == 1){
+                    sti = i;
+                    stj = j;
                 }
-                else if(grid[i][j]==0) count_0++;
+
+                if(grid[i][j] != -1){
+                    total++;
+                }
             }
         }
-        path(grid,st_i,st_j,res,choosen,count_0);
-        return res;
+
+        return solve(sti,stj,grid,n,m);
     }
 };
