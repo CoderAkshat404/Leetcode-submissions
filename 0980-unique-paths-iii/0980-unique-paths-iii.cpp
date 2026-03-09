@@ -21,9 +21,13 @@ public:
         }
 
         if(grid[i][j] == 2){
-            if(s.size() == total - 1){
+            s.insert({i,j});
+            if(s.size() == total){
+                 s.erase({i,j});
                 return 1;
+               
             }
+            s.erase({i,j});
             return 0;
         }
 
