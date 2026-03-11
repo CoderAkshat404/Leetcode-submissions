@@ -804,6 +804,7 @@
 | [0069-sqrtx](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -899,6 +900,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
