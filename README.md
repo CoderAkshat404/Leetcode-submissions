@@ -1670,6 +1670,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-unique-paths-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0980-unique-paths-iii) |
+| [1009-complement-of-base-10-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1009-complement-of-base-10-integer) |
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
