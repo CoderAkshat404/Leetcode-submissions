@@ -120,6 +120,7 @@
 | [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1615,6 +1616,7 @@
 | [0401-binary-watch](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0980-unique-paths-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
