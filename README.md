@@ -234,6 +234,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -470,6 +471,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1813-maximum-erasure-value) |
@@ -1236,6 +1238,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1362,6 +1365,7 @@
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
