@@ -574,6 +574,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1380,6 +1381,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1416,6 +1418,7 @@
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3432-count-partitions-with-even-sum-difference) |
