@@ -6,14 +6,14 @@ public:
         int idx=0;
         int cnt=0;
         while(j<nums.size()){
-            int curr=nums[i];
+            int curr=nums[j];
             while(j<nums.size() && nums[j]==curr){
                 j++;
             }
-            nums[idx]=curr;
-            idx++;
+            nums[i]=curr;
+           
             cnt++;
-            i=j;
+            i++;
         }
         return cnt;
         
