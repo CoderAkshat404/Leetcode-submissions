@@ -11,7 +11,7 @@ public:
                 m[ele]=-1;
             }
             else{
-                while(!s.empty() && s.top()<ele){
+                while(!s.empty() && s.top()<=ele){
                     s.pop();
                 }
                 if(!s.empty()){
