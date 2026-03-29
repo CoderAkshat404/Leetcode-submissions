@@ -1,35 +1,38 @@
 class Solution {
 public:
-    string removeKdigits(string nums, int k) {
-        stack<char> st;
-        for(int i=0;i<nums.length();i++){
-            if(st.empty()){
-                st.push(nums[i]);
+    string removeKdigits(string num, int k) {
+        string ans="";
+        for(auto i:num){
+            
+            if(ans==""){
+                ans+=i;
             }
             else{
-                while(!st.empty() && st.top()>nums[i] && k>0){
-                    st.pop();
+                while(ans!="" && ans.back()>i &&k>0){
+                    ans.pop_back();
                     k--;
+                    if(k==0){
+                        break;
+                    }
                 }
-                st.push(nums[i]);
+                ans+=i;
             }
+            // cout<<ans<<endl;
         }
-        while(k--){
-            st.pop();
-        }
-        string ans="";
-        while(!st.empty()){
-            ans+=st.top();
-            st.pop();
-        }
-        while(ans.length()>0 && ans.back()=='0'){
+        while(k>0){
+            k--;
             ans.pop_back();
-        }
-        if(ans==""){
-            return "0";
+            if(ans=="") break;
         }
         reverse(ans.begin(),ans.end());
-        return ans;
+        while(ans!="" &&ans.back()=='0'){
+            ans.pop_back();
+        }
+         reverse(ans.begin(),ans.end());
+         if(ans=="") return "0";
+         else{
+            return ans;
+         }
         
     }
 };
