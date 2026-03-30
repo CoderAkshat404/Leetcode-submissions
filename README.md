@@ -486,6 +486,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1813-maximum-erasure-value) |
@@ -1588,6 +1589,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
