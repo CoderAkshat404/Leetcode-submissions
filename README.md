@@ -529,6 +529,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -1277,6 +1278,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
