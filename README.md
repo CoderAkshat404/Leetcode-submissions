@@ -862,6 +862,7 @@
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -941,6 +942,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1585,6 +1587,7 @@
 | [1121-partition-array-for-maximum-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
+| [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -2118,4 +2121,8 @@
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
