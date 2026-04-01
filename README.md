@@ -528,6 +528,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2256-minimum-average-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2256-minimum-average-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -1449,6 +1450,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
+| [2256-minimum-average-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2256-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2529-range-product-queries-of-powers) |
