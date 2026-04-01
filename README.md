@@ -581,6 +581,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2906-construct-product-matrix) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1615,6 +1616,7 @@
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
