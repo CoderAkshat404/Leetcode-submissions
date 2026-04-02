@@ -1,40 +1,53 @@
 class Solution {
 public:
-    bool allmatched(unordered_map<char, int> &m, unordered_map<char, int> &need) {
-        for (auto i : need) {
-            if (m[i.first] < i.second) return false;
+    bool check(map<char,int>&curr, map<char,int>& m,char c){
+        curr[c]++;
+        for(auto i:m){
+            if(i.second>curr[i.first]) {
+                curr[c]--;
+                return false;
+            }
         }
+        curr[c]--;
         return true;
     }
-
     string minWindow(string s, string t) {
-        unordered_map<char, int> need, m;
-        for (char c : t) need[c]++;
-        
-        int r = -1, l = 0;
-        int minLen = INT_MAX, start = 0;
-        int n = s.length();
-
-        while (l < n) {
-            while (r  < n && !allmatched(m, need)) {
+        map<char,int> m;
+        for(auto i:t){
+            m[i]++;
+        }
+        int sti=-1;
+        int mini=1e9;
+        int l=0;
+        int r=-1;
+        int n=s.length();
+        map<char,int> curr;
+        while(l<n){
+            while(r+1<n && !check(curr,m,s[r+1])){
                 r++;
-                m[s[r]]++;
+                curr[s[r]]++;
             }
-
-            if (allmatched(m, need) && r - l + 1 < minLen) {
-                start = l;
-                minLen = r - l + 1;
+            if(r+1<n && check(curr,m,s[r+1])){
+               
+                // cout<<"here"<<endl;
+                if(r-l+2<mini){
+                    mini=r-l+2;
+                    sti=l;
+                }
             }
-
-            if (r < l) {
+            if(l>r){
                 l++;
-                r = l - 1;
-            } else {
-                m[s[l]]--;
+                r=l-1;
+            }
+            else{
+                curr[s[l]]--;
                 l++;
             }
         }
+        if(sti==-1) return "";
+        return s.substr(sti,mini);
 
-        return minLen == INT_MAX ? "" : s.substr(start, minLen);
+
+        
     }
 };
