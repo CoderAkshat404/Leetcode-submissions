@@ -3,32 +3,31 @@ public:
     int search(vector<int>& nums, int target) {
         int n=nums.size();
         int lo=0;
-        int hi=n-1;
+        int hi=nums.size()-1;
+        int ans=0;
         while(lo<=hi){
-            cout<<lo<<" "<<hi<<endl;
             int mid=lo+(hi-lo)/2;
-            if(nums[mid]==target){
-                return mid;
-            }
-            if(nums[mid]<=nums[hi]){
-                if(nums[mid]<=target && target<=nums[hi]){
-                    lo=mid+1;
-                }
-                else{
-                    hi=mid-1;
-                }
+            if(nums[mid]<nums[0]){
+                hi=mid-1;
+                ans=mid;
 
             }
             else{
-                if(nums[lo]<=target && target<=nums[mid]){
-                    hi=mid-1;
-                }
-                else{
-                    lo=mid+1;
-                }
+                lo=mid+1;
             }
         }
+       
+        int ch1=lower_bound(nums.begin(),nums.begin()+ans,target)-(nums.begin());
+        int ch2=lower_bound(nums.begin()+ans,nums.end(),target)-(nums.begin());
+        
+        if(ch1!=n && nums[ch1]==target){
+            return ch1;
+        }
+        if(ch2!=n && nums[ch2]==target){
+            return ch2;
+        }
         return -1;
+
         
     }
 };
