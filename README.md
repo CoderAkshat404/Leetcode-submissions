@@ -222,6 +222,7 @@
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -392,6 +393,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
@@ -726,6 +728,7 @@
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
@@ -1116,6 +1119,7 @@
 | [0355-design-twitter](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0744-network-delay-time) |
@@ -1261,6 +1265,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -1509,6 +1514,7 @@
 | [0383-ransom-note](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
