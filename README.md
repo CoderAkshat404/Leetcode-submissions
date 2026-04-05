@@ -891,6 +891,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1922-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1748,6 +1749,7 @@
 | [0326-power-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
