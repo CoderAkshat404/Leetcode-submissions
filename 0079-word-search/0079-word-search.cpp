@@ -1,46 +1,51 @@
 class Solution {
 public:
+    bool ans=false;
+    int n,m;
+    string s="";
     vector<int> dx;
     vector<int> dy;
-    string p;
-    bool flag;
-    bool check(int i,int j,vector<vector<char>>& board){
-        return (i>=0) && (i<board.size()) && (j>=0) && (j<board[0].size());
+    bool check(int i,int j){
+        return (i>=0 && i<n && j>=0 && j<m);
     }
-   void rec(int i,int j,vector<vector<char>>& board, string word,vector<vector<int>> &vis){
-        if(flag) return;
-        vis[i][j]=1;
-        p.push_back(board[i][j]);
-        if(word.length()==p.length()){
-            if(p==word){
-                flag=true;
+
+    vector<vector<int>> vis;
+    void solve(int i,int j,vector<vector<char>>& board, string& word){
+        if(word.length()==s.length()){
+            if(word==s){
+                ans=true;
             }
-            vis[i][j]=0;
-            p.pop_back();
             return;
         }
-        for (int k = 0; k < 4; k++) {
-            int ni = i + dx[k];
-            int nj = j + dy[k];
-            if (check(ni, nj, board) && vis[ni][nj] == 0) {
-                rec(ni, nj, board, word, vis);
+        s+=board[i][j];
+        if(s==word) ans=true;
+        vis[i][j]=1;
+        for(int k=0;k<4;k++){
+            int ni=i+dx[k];
+            int nj=j+dy[k];
+            
+            if(check(ni,nj) && !vis[ni][nj]){
+                solve(ni,nj,board,word);
             }
         }
+        s.pop_back();
         vis[i][j]=0;
-        p.pop_back();
-
     }
     bool exist(vector<vector<char>>& board, string word) {
-        int n=board.size();
-        int m=board[0].size();
         dx={1,0,-1,0};
         dy={0,1,0,-1};
+        n=board.size();
+        m=board[0].size();
+        
+        vis=vector<vector<int>> (n,vector<int>(m,0));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                vector<vector<int>> vis(n,vector<int>(m,0));
-                rec(i,j,board,word,vis);
+                solve(i,j,board,word);
             }
         }
-        return flag;
+        return ans;
+        
+        
+        
     }
 };
