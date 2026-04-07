@@ -1025,6 +1025,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1572-subrectangle-queries) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -1367,6 +1368,7 @@
 | [1642-water-bottles](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
