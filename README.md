@@ -687,6 +687,7 @@
 | [3847-find-the-score-difference-in-a-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -1508,6 +1509,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
@@ -1659,6 +1661,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Memoization
