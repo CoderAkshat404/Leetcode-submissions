@@ -686,6 +686,7 @@
 | [3847-find-the-score-difference-in-a-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
@@ -951,6 +952,7 @@
 | [3830-find-closest-person](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
@@ -1342,6 +1344,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Quickselect
 |  |
 | ------- |
@@ -1978,6 +1981,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
