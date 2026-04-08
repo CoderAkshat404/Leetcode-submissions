@@ -659,6 +659,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3665-twisted-mirror-path-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -1230,6 +1231,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
@@ -1393,6 +1395,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3847-find-the-score-difference-in-a-game) |
