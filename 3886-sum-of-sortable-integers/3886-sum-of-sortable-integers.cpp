@@ -29,10 +29,11 @@ public:
         for(int i=1;i*i<=n;i++){
             if(n%i==0){
                 ans.push_back(i);
-            }
-            if(n/i!=i){
+                if(n/i!=i){
                 ans.push_back(n/i);
             }
+            }
+            
         }
         return ans;
     }
@@ -44,7 +45,6 @@ public:
             bool valid = true;
             int prevmax = INT_MIN;
             for(int start = 0; start < n; start += div){
-                if(start+div-1 >= n){ valid=false; break; }
                 if(!check(start, start+div-1, nums,prevmax)){ valid = false; break; }
             }
             if(valid){
