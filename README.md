@@ -125,6 +125,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1328-break-a-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1328-break-a-palindrome) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1634,6 +1635,7 @@
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
