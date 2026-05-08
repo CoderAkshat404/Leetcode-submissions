@@ -698,6 +698,7 @@
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3903-smallest-stable-index-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3904-smallest-stable-index-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -1522,6 +1523,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3903-smallest-stable-index-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
