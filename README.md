@@ -119,6 +119,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
@@ -1707,6 +1708,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1780,6 +1782,7 @@
 | [0231-power-of-two](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
+| [1106-parsing-a-boolean-expression](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
