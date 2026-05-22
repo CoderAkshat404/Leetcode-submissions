@@ -214,6 +214,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-check-adjacent-digit-differences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
