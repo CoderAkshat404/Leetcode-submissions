@@ -971,6 +971,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1131,6 +1132,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
