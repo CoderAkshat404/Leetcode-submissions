@@ -261,6 +261,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2126-destroying-asteroids](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -530,6 +531,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2126-destroying-asteroids](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1323,6 +1325,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1946-minimum-absolute-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1946-minimum-absolute-sum-difference) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2126-destroying-asteroids](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
