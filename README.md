@@ -420,6 +420,7 @@
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
+| [0849-maximize-distance-to-closest-person](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-most-profit-assigning-work](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0860-lemonade-change) |
