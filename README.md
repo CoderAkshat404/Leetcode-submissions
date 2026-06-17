@@ -291,6 +291,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -634,6 +635,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3429-special-array-i) |
@@ -1357,6 +1359,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3430-count-days-without-meetings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
