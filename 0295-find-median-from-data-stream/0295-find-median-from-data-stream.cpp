@@ -5,14 +5,36 @@ public:
     MedianFinder() {
         
     }
-    
-    void addNum(int num) {
-        maxheap.push(num);
-        minheap.push(maxheap.top());
-        maxheap.pop();
-        if(minheap.size()>maxheap.size()){
+
+    void balance(){
+        while(minheap.size()>maxheap.size()+1){
             maxheap.push(minheap.top());
             minheap.pop();
+        }
+        while(maxheap.size()>minheap.size()){
+            minheap.push(maxheap.top());
+            maxheap.pop();
+        }
+    }
+    
+    void addNum(int num) {
+        //minheap
+        if(minheap.empty()){
+            minheap.push(num);
+        }else{
+            if(maxheap.empty()){
+                minheap.push(num);
+               
+                balance();
+            }else{
+                if(maxheap.top()<num){
+                    minheap.push(num);
+                    balance();
+                }else{
+                    maxheap.push(num);
+                    balance();
+                }
+            }
         }
         
     }
@@ -21,7 +43,7 @@ public:
         if(minheap.size()==maxheap.size()){
             return ((double)(minheap.top()+maxheap.top())/2);
         }
-        return ((double)(maxheap.top()));
+        return ((double)(minheap.top()));
         
     }
 };
