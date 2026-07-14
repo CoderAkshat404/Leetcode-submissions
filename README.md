@@ -715,6 +715,7 @@
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3975-filter-occupied-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3975-filter-occupied-intervals) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -1381,6 +1382,7 @@
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
+| [3975-filter-occupied-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3975-filter-occupied-intervals) |
 ## Quickselect
 |  |
 | ------- |
