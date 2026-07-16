@@ -419,6 +419,7 @@
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
@@ -1453,6 +1454,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0542-01-matrix) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0854-making-a-large-island) |
@@ -1653,6 +1655,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [0799-champagne-tower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1711,6 +1714,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
@@ -1767,6 +1771,7 @@
 | [0257-binary-tree-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0494-target-sum) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [0980-unique-paths-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -2090,6 +2095,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0744-network-delay-time) |
+| [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
