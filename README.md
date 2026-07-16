@@ -1926,6 +1926,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
@@ -2110,6 +2111,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2793-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3123-find-edges-in-shortest-paths) |
@@ -2165,6 +2167,7 @@
 | [0820-find-eventual-safe-states](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2360-longest-cycle-in-a-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Queue
 |  |
 | ------- |
@@ -2219,6 +2222,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
