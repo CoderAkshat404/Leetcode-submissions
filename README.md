@@ -596,6 +596,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2709-greatest-common-divisor-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -948,6 +949,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2709-greatest-common-divisor-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2752-sum-multiples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1243,6 +1245,7 @@
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2709-greatest-common-divisor-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -2212,6 +2215,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
+| [2709-greatest-common-divisor-traversal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Graph Theory
 |  |
 | ------- |
