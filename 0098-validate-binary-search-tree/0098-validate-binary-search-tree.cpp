@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root,long long ul,long long ll){
-        if(root==NULL){
-            return true;
+    bool ans=true;
+    pair<long long,long long> solve(TreeNode* root){
+        if(root==NULL) return {(long long)INT_MAX+1,(long long)INT_MIN-1};
+        pair<long long,long long> l=solve(root->left);
+        pair<long long,long long> r=solve(root->right);
+        if(root->val<=l.second || root->val>=r.first){
+            ans=false;
         }
-        if(root->val<=ll || root->val>=ul){
-            return false;
-
-        }
-        return solve(root->left,root->val,ll) && solve(root->right,ul,root->val);
+        return {min(l.first,(long long)root->val),max(r.second,(long long)root->val)};
     }
     bool isValidBST(TreeNode* root) {
-        return solve(root,1e10,-1e10);
-
+        solve(root);
+        return ans;
         
     }
 };
