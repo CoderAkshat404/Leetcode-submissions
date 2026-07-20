@@ -466,6 +466,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1293-three-consecutive-odds) |
@@ -1407,6 +1408,7 @@
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1324-print-words-vertically](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1324-print-words-vertically) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -1466,6 +1468,7 @@
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
