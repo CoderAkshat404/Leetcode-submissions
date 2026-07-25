@@ -246,6 +246,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1328-break-a-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1328-break-a-palindrome) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -453,6 +454,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1029-two-city-scheduling](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1034-subarrays-with-k-different-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
@@ -1331,6 +1333,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
