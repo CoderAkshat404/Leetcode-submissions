@@ -1,33 +1,42 @@
 class Solution {
 public:
-    set<vector<int>> ans;
+    map<int,int> m;
+    vector<pair<int,int>> freq;
+    vector<vector<int>> ans;
     vector<int> v;
-    void rec(int i,vector<int>& candidates, int target){
+    void solve(int level,int target){
+     
         if(target==0){
-            ans.insert(v);
-            return ;
+            ans.push_back(v);
+            return;
         }
-        if(i>=candidates.size()){
-            return  ;
+        if(target<0) return;
+        if(level==freq.size()) return;
+        if(freq[level].second==0){
+            solve(level+1,target);
         }
-        if(target-candidates[i]>=0){
-            v.push_back(candidates[i]);
-            rec(i+1,candidates,target-candidates[i]);
-            v.pop_back();
-        }
-        while (i + 1 < candidates.size() && candidates[i] == candidates[i + 1]) {
-            i++;
-        }
-        rec(i+1,candidates,target);
+        else{
+        freq[level].second= freq[level].second-1;
+        v.push_back(freq[level].first);
+        solve(level,target-freq[level].first);
+        freq[level].second= freq[level].second+1;
+        v.pop_back();
+        solve(level+1,target);}
+        
+
+
+
 
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        rec(0,candidates,target);
-        vector<vector<int>> arr;
-        for(auto i:ans){
-            arr.push_back(i);
+        for(auto i:candidates){
+            m[i]++;
         }
-        return arr;
+        for(auto i:m){
+            freq.push_back({i.first,i.second});
+        }
+        solve(0,target);
+        return ans;
+        
     }
 };
