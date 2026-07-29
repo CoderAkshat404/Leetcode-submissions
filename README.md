@@ -84,6 +84,7 @@
 | [0127-word-ladder](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0179-largest-number) |
@@ -363,6 +364,7 @@
 | [0130-surrounded-regions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0162-find-peak-element) |
@@ -748,6 +750,7 @@
 | [0126-word-ladder-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0205-isomorphic-strings) |
@@ -1651,6 +1654,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0198-house-robber) |
@@ -1735,6 +1739,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
@@ -1967,6 +1972,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
