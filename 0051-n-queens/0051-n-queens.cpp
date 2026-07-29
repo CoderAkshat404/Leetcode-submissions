@@ -1,36 +1,51 @@
 class Solution {
 public:
-    unordered_map<int,int> row;
-    unordered_map<int,int> upleftdiag;
-    unordered_map<int,int> loleftdiag;
+    vector<int> q;
     vector<vector<string>> ans;
-
-    void rec(int col, vector<string> board, int n){
-        if(col == n){
-            ans.push_back(board);
-            return;
+    int check(int row,int col){
+        for(int i=0;i<q.size();i++){
+            if(q[i]==col){
+                return false;
+            }
+            if(abs(row-i)==abs(q[i]-col)){
+                return false;
+            }
         }
-        for(int i = 0; i < n; i++){
-            if(row[i] == 0 && upleftdiag[col + i] == 0 && loleftdiag[n - 1 + (col - i)] == 0){
-                board[i][col] = 'Q';
-                row[i] = 1;
-                upleftdiag[col + i] = 1;
-                loleftdiag[n - 1 + (col - i)] = 1;
+        return true;
+    }
+    void solve(int level,int n){
+        if(level==n){
+            vector<string> v;
+            for(int i=0;i<n;i++){
+                string s;
+                for(int j=0;j<n;j++){
+                    if(j!=q[i]){
+                        s.push_back('.');
+                    }
+                    else{
+                        s.push_back('Q');
+                    }
+                }
+                v.push_back(s);
 
-                rec(col + 1, board, n);
+            }
+            ans.push_back(v);
+            return;
 
-                board[i][col] = '.';
-                row[i] = 0;
-                upleftdiag[col + i] = 0;
-                loleftdiag[n - 1 + (col - i)] = 0;
+        }
+        for(int i=0;i<n;i++){
+            if(check(level,i)){
+                q.push_back(i);
+                solve(level+1,n);
+                q.pop_back();
             }
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
-
-        vector<string> board(n, string(n, '.'));
-        rec(0, board, n);
+        solve(0,n);
         return ans;
+
+        
     }
 };
