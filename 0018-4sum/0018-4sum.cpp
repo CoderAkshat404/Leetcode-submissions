@@ -6,8 +6,8 @@ public:
         }
         set<vector<int>> ans;
         sort(nums.begin(),nums.end());
-        for(int i=1;i<nums.size()-2;i++){
-            for(int p=i+1;p<nums.size()-1;p++){
+        for(int i=0;i<nums.size();i++){
+            for(int p=i+1;p<nums.size();p++){
             int j=0;
             int k=nums.size()-1;
             while(j<i && k>p){
