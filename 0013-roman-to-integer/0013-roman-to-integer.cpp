@@ -9,30 +9,19 @@ public:
         m['C']=100;
         m['D']=500;
         m['M']=1000;
-        unordered_map<char,int> mp;
-        mp['I']=1;
-        mp['V']=2;
-        mp['X']=3;
-        mp['L']=4;
-        mp['C']=5;
-        mp['D']=6;
-        mp['M']=7;
         int ans=0;
-        int i;
-        for(i=0;i<s.length()-1;i++){
-            if(mp[s[i]]>=mp[s[i+1]]){
-                ans+=m[s[i]];
+        int n=s.length();
+        for(int i=0;i<n-1;i++){
+            if(m[s[i]]<m[s[i+1]]){
+                ans-=m[s[i]];
             }
             else{
-                ans+=m[s[i+1]]-m[s[i]];
-                i++;
+                ans+=m[s[i]];
             }
 
         }
-    if(i==s.length()-1){
-        ans+=m[s[s.length()-1]];
-    }
-
-     return ans;   
+        ans+=m[s.back()];
+        return ans;
+        
     }
 };
