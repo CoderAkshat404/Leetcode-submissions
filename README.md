@@ -490,6 +490,7 @@
 | [1390-four-divisors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -929,6 +930,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1448-maximum-69-number) |
@@ -1698,6 +1700,7 @@
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -2285,4 +2288,16 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
