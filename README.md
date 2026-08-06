@@ -252,6 +252,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-two-city-scheduling) |
+| [1053-previous-permutation-with-one-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1328-break-a-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1328-break-a-palindrome) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -466,6 +467,7 @@
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1053-previous-permutation-with-one-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
