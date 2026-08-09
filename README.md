@@ -473,6 +473,7 @@
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1200-minimum-absolute-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
@@ -928,6 +929,7 @@
 | [0944-smallest-range-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-smallest-range-i) |
 | [1014-k-closest-points-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1549,6 +1551,7 @@
 | [0724-find-pivot-index](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1177-can-make-palindrome-from-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1177-can-make-palindrome-from-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1704,6 +1707,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1227-airplane-seat-assignment-probability](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-longest-common-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1250-longest-common-subsequence) |
@@ -2302,14 +2306,17 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 ## Pigeonhole Principle
 |  |
