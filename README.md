@@ -2322,4 +2322,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
