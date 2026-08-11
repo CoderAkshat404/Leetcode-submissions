@@ -630,6 +630,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -849,6 +850,7 @@
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -1396,6 +1398,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
