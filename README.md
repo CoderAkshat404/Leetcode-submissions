@@ -116,6 +116,7 @@
 | [0812-rotate-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1706,6 +1707,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
