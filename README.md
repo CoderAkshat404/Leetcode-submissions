@@ -628,6 +628,7 @@
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -849,6 +850,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -2033,6 +2035,7 @@
 | [2478-longest-nice-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
