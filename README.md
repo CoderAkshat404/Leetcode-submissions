@@ -232,6 +232,7 @@
 | [0055-jump-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -1688,6 +1689,7 @@
 | [0322-coin-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -1766,6 +1768,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0397-integer-replacement) |
 | [0773-sliding-puzzle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0773-sliding-puzzle) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
@@ -1892,6 +1895,7 @@
 | [0342-power-of-four](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
