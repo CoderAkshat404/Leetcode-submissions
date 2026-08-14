@@ -296,6 +296,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3195-separate-black-and-white-balls) |
@@ -992,6 +993,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
@@ -2107,6 +2109,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3201-distribute-candies-among-children-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
