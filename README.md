@@ -527,6 +527,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -825,6 +826,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
 | [1657-determine-if-two-strings-are-close](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1813-maximum-erasure-value) |
@@ -1158,6 +1160,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1488-avoid-flood-in-the-city) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1572,6 +1575,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
@@ -2043,6 +2047,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1813-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
