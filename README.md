@@ -677,6 +677,7 @@
 | [3453-separate-squares-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3483-alternating-groups-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -875,6 +876,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3531-count-covered-buildings) |
