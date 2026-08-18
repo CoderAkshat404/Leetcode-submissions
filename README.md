@@ -592,6 +592,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1763,6 +1764,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
