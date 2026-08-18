@@ -558,6 +558,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2028-find-missing-observations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2028-find-missing-observations) |
 | [2050-parallel-courses-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-parallel-courses-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -973,6 +974,7 @@
 | [1925-count-square-sum-triples](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1925-count-square-sum-triples) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2028-find-missing-observations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2028-find-missing-observations) |
 | [2032-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2063-vowels-of-all-substrings) |
@@ -1470,6 +1472,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2028-find-missing-observations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2028-find-missing-observations) |
 | [2069-walking-robot-simulation-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2232-adding-spaces-to-a-string) |
