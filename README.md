@@ -24,6 +24,7 @@
 | [0392-is-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
@@ -104,6 +105,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
+| [0556-next-greater-element-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0657-robot-return-to-origin) |
@@ -941,6 +943,7 @@
 | [0507-perfect-number](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0537-complex-number-multiplication) |
+| [0556-next-greater-element-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
