@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool findSubarrays(vector<int>& nums) {
+        for(int i=0;i<nums.size()-1;i++){
+            int sum=nums[i]+nums[i+1];
+            for(int j=i+1;j<nums.size()-1;j++){
+                if(nums[j]+nums[j+1]==sum) {
+                
+                    return true;
+                }
+            }
+        }
+        return false;
+        
+    }
+};
