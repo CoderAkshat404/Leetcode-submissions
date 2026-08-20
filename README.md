@@ -269,6 +269,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -535,6 +536,7 @@
 | [1656-count-good-triplets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1675-magnetic-force-between-two-balls](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1834,6 +1836,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1884,6 +1887,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3676-count-bowl-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-count-bowl-subarrays) |
 ## Linked List
 |  |
