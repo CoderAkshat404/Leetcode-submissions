@@ -478,6 +478,7 @@
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
@@ -1392,6 +1393,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1029-two-city-scheduling) |
+| [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1256-rank-transform-of-an-array) |
@@ -2361,6 +2363,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Minimax
 |  |
@@ -2396,4 +2399,8 @@
 | [1729-find-followers-count](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
