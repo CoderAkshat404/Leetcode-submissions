@@ -606,6 +606,7 @@
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
@@ -863,6 +864,7 @@
 | [2332-count-lattice-points-inside-a-circle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
