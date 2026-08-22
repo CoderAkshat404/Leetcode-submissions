@@ -2395,6 +2395,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0610-triangle-judgement) |
