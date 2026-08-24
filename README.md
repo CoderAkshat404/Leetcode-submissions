@@ -222,6 +222,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3684-substring-matching-pattern) |
+| [3703-remove-k-balanced-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3703-remove-k-balanced-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1522,6 +1523,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3703-remove-k-balanced-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3703-remove-k-balanced-substrings) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -1859,6 +1861,7 @@
 | [3447-clear-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3634-find-mirror-score-of-a-string) |
 | [3676-count-bowl-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-count-bowl-subarrays) |
+| [3703-remove-k-balanced-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3703-remove-k-balanced-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Backtracking
 |  |
