@@ -550,6 +550,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -985,6 +986,7 @@
 | [1642-water-bottles](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1903-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -1607,6 +1609,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1895-largest-magic-square) |
@@ -1779,6 +1782,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1764-maximum-repeating-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1764-maximum-repeating-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 | [1900-closest-dessert-cost](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1900-closest-dessert-cost) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2050-parallel-courses-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-parallel-courses-iii) |
@@ -2377,17 +2381,20 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1872-stone-game-viii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
