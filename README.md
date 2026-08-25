@@ -190,6 +190,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -879,6 +880,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1798,6 +1800,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2562-count-ways-to-build-good-strings) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -1891,6 +1894,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
