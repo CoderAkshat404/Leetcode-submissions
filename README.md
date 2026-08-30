@@ -284,6 +284,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2126-destroying-asteroids) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2233-maximum-product-after-k-increments](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2233-maximum-product-after-k-increments) |
@@ -573,6 +574,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2028-find-missing-observations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2028-find-missing-observations) |
 | [2050-parallel-courses-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2050-parallel-courses-iii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
