@@ -657,6 +657,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2116,6 +2117,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
