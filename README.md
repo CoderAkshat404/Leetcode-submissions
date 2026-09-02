@@ -110,6 +110,7 @@
 | [0567-permutation-in-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0657-robot-return-to-origin) |
+| [0676-implement-magic-dictionary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0676-implement-magic-dictionary) |
 | [0678-valid-parenthesis-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0696-count-binary-substrings) |
@@ -817,6 +818,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0676-implement-magic-dictionary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0768-partition-labels) |
@@ -1138,6 +1140,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0355-design-twitter) |
+| [0676-implement-magic-dictionary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0676-implement-magic-dictionary) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -2041,6 +2044,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0794-swim-in-rising-water) |
@@ -2080,6 +2084,7 @@
 | [0014-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0386-lexicographical-numbers) |
+| [0676-implement-magic-dictionary](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0676-implement-magic-dictionary) |
 | [0692-top-k-frequent-words](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
