@@ -767,6 +767,7 @@
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-transform-array-to-all-equal-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3883-count-non-decreasing-arrays-with-given-digit-sums) |
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -1072,6 +1073,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
