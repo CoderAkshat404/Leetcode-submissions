@@ -485,6 +485,7 @@
 | [1036-rotting-oranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1784,6 +1785,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1121-partition-array-for-maximum-sum](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1129-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1140-stone-game-ii) |
@@ -2457,4 +2459,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1051-height-checker) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
