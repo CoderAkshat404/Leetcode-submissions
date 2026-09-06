@@ -1,23 +1,20 @@
 class Solution {
 public:
+    int dp[1001][1001];
+    int solve(int i,int j,string &s, string& t){
+        if(j==t.length()) return 1;
+        if(i==s.length()) return 0;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int ans=0;
+        if(s[i]==t[j]){
+            ans+=solve(i+1,j+1,s,t);
+        }
+        ans+=solve(i+1,j,s,t);
+        return dp[i][j]=ans;
+    }
     int numDistinct(string s, string t) {
-        int n=s.length();
-        int m=t.length();
-        vector<vector<unsigned long long>> dp(n+1,vector<unsigned long long>(m+1,0));
-        for(int i=0;i<=n;i++){
-            dp[i][m]=1;
-        }
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=0;j--){
-                if(s[i]==t[j]){
-                    dp[i][j]=dp[i+1][j+1]+dp[i+1][j];
-                }
-                else{
-                    dp[i][j]=dp[i+1][j];
-                }
-            }
-        }
-        return dp[0][0];
+        memset(dp,-1,sizeof(dp));
+        return solve(0,0,s,t);
         
     }
 };
