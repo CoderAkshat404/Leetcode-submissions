@@ -196,6 +196,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -1826,6 +1827,7 @@
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
