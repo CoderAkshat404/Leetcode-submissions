@@ -1,22 +1,34 @@
 class Solution {
 public:
     int distinctSubseqII(string s) {
-        int mod=1e9+7;
-        int n=s.length();
-        vector<int> sum(n+1);
-        vector<int> dp(n+1);
-        map<char,int> last;
-        dp[0]=1;
-        sum[0]=1;
-        for(int i=1;i<=n;i++){
-            dp[i]=sum[i-1];
-            if(last[s[i-1]]>0){
-                dp[i]=(dp[i]-sum[last[s[i-1]]-1]+mod)%mod;
+        const int MOD = 1e9 + 7;
+
+        map<char,int> lastindx;
+        int n = s.length();
+
+        vector<long long> pref(n, 0);
+        pref[0] = 1;
+        lastindx[s[0]] = 0;
+
+        for(int i = 1; i < n; i++) {
+            long long total = pref[i-1] % MOD;
+
+            if(lastindx.find(s[i]) != lastindx.end()) {
+                int previndx = lastindx[s[i]];
+
+                if(previndx > 0) {
+                    total = (total - pref[previndx-1] + MOD) % MOD;
+                }
             }
-            last[s[i-1]]=i;
-            sum[i]=(dp[i]+sum[i-1])%mod;
+            else {
+                total = (total + 1) % MOD;
+            }
+
+            pref[i] = (pref[i-1] + total) % MOD;
+
+            lastindx[s[i]] = i;
         }
-        return (sum[n]-1+mod)%mod;
-        
+
+        return pref[n-1];
     }
 };
