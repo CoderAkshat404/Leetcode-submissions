@@ -657,6 +657,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2906-construct-product-matrix) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1656,6 +1657,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2906-construct-product-matrix](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2906-construct-product-matrix) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
