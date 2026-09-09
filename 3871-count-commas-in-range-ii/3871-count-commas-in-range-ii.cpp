@@ -1,25 +1,33 @@
 class Solution {
 public:
-    int calsize(int n){
-        int x=0;
-        while(n!=0){
-            x++;
-            n=n/10;
-        }
-        return x;
-    }
     long long countCommas(long long n) {
-        long long ans=0;
-        long long start=1000;
-        int commas=1;
-        while(start<=n){
-            int x=calsize(start);
-            long long ul=(start*1000*1LL)-1;
-            ans += (min(ul,n) - start + 1) *commas;
-            start=start*1000*1LL;
-            commas++;
+        #define int long long
+        if(n<1000) return 0;
+
+        int ans=0;
+
+        if(n>=1000){
+            ans+=min(999999*1LL,n)-1000+1;
         }
+
+        if(n>=1000000){
+            ans+=(min(999999999*1LL,n)-1000000+1)*2LL;
+        }
+
+        if(n>=1000000000){
+            ans+=(min(999999999999*1LL,n)-1000000000+1)*3LL;
+        }
+
+        if(n>=1000000000000){
+            ans+=(min(999999999999999*1LL,n)-1000000000000+1)*4LL;
+        }
+
+      
+        if(n>=1000000000000000LL){
+            ans+=(n-1000000000000000LL+1)*5LL;
+        }
+
         return ans;
-        
+        #undef int
     }
 };
