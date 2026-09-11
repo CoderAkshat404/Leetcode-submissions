@@ -1139,6 +1139,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1336,6 +1337,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
@@ -2090,6 +2092,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1753-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2438-find-closest-node-to-given-two-nodes) |
