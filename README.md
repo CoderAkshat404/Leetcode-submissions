@@ -695,6 +695,7 @@
 | [3373-maximum-prime-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
@@ -1242,6 +1243,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3427-special-array-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3453-separate-squares-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1484,6 +1486,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3430-count-days-without-meetings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3433-count-mentions-per-user) |
@@ -1843,6 +1846,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
