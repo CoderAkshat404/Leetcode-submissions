@@ -122,6 +122,7 @@
 | [0844-backspace-string-compare](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0851-goat-latin](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0952-word-subsets) |
@@ -261,6 +262,7 @@
 | [0860-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0876-hand-of-straights](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1018-largest-perimeter-triangle) |
@@ -1884,6 +1886,7 @@
 | [0678-valid-parenthesis-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -2488,4 +2491,8 @@
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
