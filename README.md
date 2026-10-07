@@ -786,6 +786,7 @@
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3975-filter-occupied-intervals) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -950,6 +951,7 @@
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4045-longest-balanced-subarray-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4045-longest-balanced-subarray-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -1296,6 +1298,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1507,6 +1510,7 @@
 | [3859-maximum-product-of-two-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3859-maximum-product-of-two-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3975-filter-occupied-intervals](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3975-filter-occupied-intervals) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -1565,6 +1569,7 @@
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3847-find-the-score-difference-in-a-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -1740,6 +1745,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2329,6 +2335,7 @@
 | [2434-design-a-number-container-system](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3791-fruits-into-baskets-iii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Graph
 |  |
 | ------- |
