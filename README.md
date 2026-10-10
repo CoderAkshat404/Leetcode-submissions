@@ -153,6 +153,7 @@
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1543-simplified-fractions](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1543-simplified-fractions) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1547-destination-city](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1547-destination-city) |
@@ -278,6 +279,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1900,6 +1902,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -2502,4 +2505,5 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
