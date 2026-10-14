@@ -328,6 +328,7 @@
 | [3457-eat-pizzas](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3457-eat-pizzas) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1075,6 +1076,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CoderAkshat404/Leetcode-submissions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
